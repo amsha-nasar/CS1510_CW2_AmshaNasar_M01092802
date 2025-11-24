@@ -21,8 +21,8 @@ def verify_password(plain_text_password,hashed_password):
     verify=bcrypt.checkpw(bytes_password,bytes_hashed)
     return verify 
 
-# TEMPORARY TEST CODE - Remove after testing
-test_password = "SecurePassword123"
+
+'''test_password = "SecurePassword123"
 
 # Test hashing
 hashed = hash_password(test_password)
@@ -36,7 +36,7 @@ print(f"\nVerification with correct password: {is_valid}")
 is_invalid = verify_password("WrongPassword", hashed)
 print(f"Verification with incorrect password: {is_invalid}")
 
-
+'''
 def register_user(username, password):
     with open("users.txt", "r") as f: 
              for line in f.readlines(): 
@@ -66,7 +66,7 @@ def user_exists(username):
 
    
    except FileNotFoundError:
-        # File doesn't exist yet, that's fine
+        print("file doesnt exisit yet")
         pass
    return False
 
@@ -118,8 +118,6 @@ def validate_password(password):
   lower_flag = False
   isdigit_flag = False
   
-
-
   for char in password:   
       if char.isupper():
          upper_flag=True
