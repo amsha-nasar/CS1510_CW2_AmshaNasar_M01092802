@@ -1,8 +1,16 @@
 
 from app.data.db import connect_database
-from app.data.schema import create_all_tables
+from app.data.schema import create_all_tables,load_csv_to_table
 from app.services.user_service import register_user, login_user, migrate_users_from_file
-from app.data.incidents import insert_incident, get_all_incidents
+from app.data.incidents import insert_incident, get_all_incidents,update_incident_status,delete_incident,get_incidents_by_type_count,get_high_severity_by_status
+from pathlib import Path
+import pandas as pd 
+
+DATA_DIR = Path("DATA")
+DB_PATH = DATA_DIR / "intelligence_platform.db"
+cyber_path=DATA_DIR / "cyber_incidents.csv"
+tickets_path=DATA_DIR / "it_tickets.csv"
+metadata_path=DATA_DIR / "metadata_dataset.csv"
 
 
 def setup_database_complete():
@@ -19,28 +27,33 @@ def setup_database_complete():
     print("="*60)
     
     # Step 1: Connect
-    print("\n[1/5] Connecting to database...")
+    print(" Connecting to database...")
     conn = connect_database()
-    print("       Connected")
+    print("Connected")
     
     # Step 2: Create tables
     print("\n[2/5] Creating database tables...")
     create_all_tables(conn)
     
     # Step 3: Migrate users
-    print("\n[3/5] Migrating users from users.txt...")
+    print("Migrating users from users.txt...")
     user_count = migrate_users_from_file(conn)
-    print(f"       Migrated {user_count} users")
+    print(f"Migrated {user_count} users")
     
     # Step 4: Load CSV data
     print("\n[4/5] Loading CSV data...")
-    total_rows = load_all_csv_data(conn)
+    cyber_rows = load_csv_to_table(conn,cyber_path,"cyber")
+    print("\nloaded cyber data")
+    tickets_rows = load_csv_to_table(conn,tickets_path,"tickets")
+    print("\nloaded tickets data")
+    data_rows = load_csv_to_table(conn,metadata_path,"metadata")
+    print("\nloaded metadata data")
     
     # Step 5: Verify
     print("\n[5/5] Verifying database setup...")
     cursor = conn.cursor()
 
-    tables = ['users', 'cyber_incidents', 'datasets_metadata', 'it_tickets']
+    tables = ['users', 'cyber', 'tickets', 'metadata']
     print("\n Database Summary:")
     print(f"{'Table':<25} {'Row Count':<15}")
     print("-" * 40)
@@ -130,40 +143,3 @@ run_comprehensive_tests()
 
 
 
-def main():
-    print("=" * 60)
-    print("Week 8: Database Demo")
-    print("=" * 60)
-    
-    # 1. Setup database
-    conn = connect_database()
-    create_all_tables(conn)
-    conn.close()
-    
-    # 2. Migrate users
-    migrate_users_from_file()
-    
-    # 3. Test authentication
-    success, msg = register_user("alice", "SecurePass123!", "analyst")
-    print(msg)
-    
-    success, msg = login_user("alice", "SecurePass123!")
-    print(msg)
-    
-    # 4. Test CRUD
-    incident_id = insert_incident(
-        "2024-11-05",
-        "Phishing",
-        "High",
-        "Open",
-        "Suspicious email detected",
-        "alice"
-    )
-    print(f"Created incident #{incident_id}")
-    
-    # 5. Query data
-    df = get_all_incidents()
-    print(f"Total incidents: {len(df)}")
-
-if __name__ == "__main__":
-    main()

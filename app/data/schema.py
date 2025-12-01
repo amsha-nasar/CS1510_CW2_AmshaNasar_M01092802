@@ -44,7 +44,7 @@ def create_datasets_metadata_table(conn):
             dataset_name TEXT NOT NULL ,
             source TEXT ,
             category TEXT ,
-            file_size REAL,
+            file_size_mb REAL,
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
             last_updated  TEXT ,
             record_count INTEGER
@@ -95,6 +95,10 @@ def load_csv_to_table(conn, csv_path, table_name):
 
     # 2. Read CSV
     df = pd.read_csv(csv_path)
+    if 'id' in df.columns:
+        print(f"Dropping 'id' column from CSV for table '{table_name}'...")
+        df = df.drop(columns=['id'])
+
 
     # 3. Insert into SQL table
     df.to_sql(

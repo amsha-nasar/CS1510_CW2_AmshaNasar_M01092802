@@ -1,0 +1,1001 @@
+id,ticket_id,priority,status,category,subject,description,created_date,resolved_date,assigned_to,created_at
+1,TCK-C56T4UF,Critical,Closed,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-04-12,2024-04-23,fatima,2024-04-12 08:10:31
+2,TCK-EL6246H,Low,In Progress,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-14,,charlie,2024-12-14 01:42:35
+3,TCK-ID25OWF,High,Resolved,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-09-27,2024-09-29,edward,2024-09-27 10:07:09
+4,TCK-75935A0,Medium,In Progress,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-04-16,,bob,2024-04-16 15:17:38
+5,TCK-L7253J2,Low,In Progress,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-03-12,,edward,2024-03-12 19:23:04
+6,TCK-D54I3QK,Low,Resolved,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-07-07,2024-07-08,irene,2024-07-07 16:20:33
+7,TCK-2IAGL58,High,Resolved,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-01-21,2024-02-02,alice,2024-01-21 11:30:50
+8,TCK-KXO9T7E,Low,Open,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-12,,edward,2024-04-12 00:11:16
+9,TCK-8G8JDP0,Critical,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-01,2024-05-06,fatima,2024-05-01 14:16:01
+10,TCK-LVSNUJZ,Critical,Open,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-02,,george,2024-08-02 07:05:07
+11,TCK-A7TZ0YN,Medium,Open,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-11-26,,irene,2024-11-26 12:11:10
+12,TCK-CXLL4ZK,Medium,Open,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-03-28,,fatima,2024-03-28 02:58:42
+13,TCK-LOOKEP7,Medium,Open,Hardware,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-04-09,,edward,2024-04-09 20:49:09
+14,TCK-Y6WKTAK,Medium,In Progress,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-12-25,,george,2024-12-25 00:55:25
+15,TCK-PUXQPHR,High,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-05-31,2024-06-04,alice,2024-05-31 08:12:53
+16,TCK-62GDSWM,High,Resolved,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-05-10,2024-05-14,edward,2024-05-10 15:25:50
+17,TCK-31YIHAI,Medium,Open,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-05-29,,bob,2024-05-29 02:42:37
+18,TCK-R4COWGZ,Low,Closed,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-11-04,2024-11-07,diana,2024-11-04 09:06:05
+19,TCK-RIXA11D,Medium,Resolved,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-09-14,2024-09-26,george,2024-09-14 07:10:05
+20,TCK-PG8SBI4,High,In Progress,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-12-09,,edward,2024-12-09 05:59:18
+21,TCK-Q2Y9V86,Medium,Closed,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-20,2024-10-22,fatima,2024-10-20 11:59:12
+22,TCK-WZS3T60,High,Closed,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-07-10,2024-07-21,bob,2024-07-10 11:18:57
+23,TCK-RJIW1SW,Critical,Open,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-10-03,,charlie,2024-10-03 02:17:17
+24,TCK-JCKJLTE,Low,In Progress,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-06-09,,george,2024-06-09 22:47:30
+25,TCK-IYZCOTO,High,Closed,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-11-09,2024-11-21,bob,2024-11-09 22:45:58
+26,TCK-HP6VZ41,High,Resolved,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-01-22,2024-01-31,fatima,2024-01-22 03:31:18
+27,TCK-NAM148P,Medium,Open,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-09-09,,edward,2024-09-09 01:00:53
+28,TCK-0TVHHPB,Medium,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-23,2024-08-25,alice,2024-08-23 17:28:30
+29,TCK-MYOFQEW,Medium,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-12-10,2024-12-20,diana,2024-12-10 15:43:36
+30,TCK-AOUAXEQ,High,Resolved,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-02-18,2024-02-25,bob,2024-02-18 00:52:28
+31,TCK-BNHL1N1,High,Resolved,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-02-28,2024-02-29,diana,2024-02-28 21:34:24
+32,TCK-3JCAT9M,High,Resolved,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-06-18,2024-06-19,alice,2024-06-18 22:48:10
+33,TCK-X2X18HA,High,Open,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-07-06,,bob,2024-07-06 12:10:17
+34,TCK-FEYUHZ1,Medium,Open,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-09-27,,henry,2024-09-27 09:07:01
+35,TCK-GV0E38D,Low,Resolved,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-07-08,2024-07-10,fatima,2024-07-08 08:59:54
+36,TCK-ALY8OZC,Medium,Closed,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-06-23,2024-06-27,bob,2024-06-23 03:55:34
+37,TCK-YWD14VE,Low,In Progress,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-02-20,,fatima,2024-02-20 17:14:32
+38,TCK-92MPNSM,Medium,Resolved,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-12-29,2024-12-31,irene,2024-12-29 08:40:42
+39,TCK-43D8W3Z,Medium,Resolved,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-02-24,2024-03-04,george,2024-02-24 12:24:29
+40,TCK-P08J3TR,Medium,In Progress,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-31,,irene,2024-08-31 01:58:54
+41,TCK-P0J43D5,Medium,Resolved,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-11-15,2024-11-25,edward,2024-11-15 12:08:44
+42,TCK-IQVNB4G,Medium,Closed,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-10,2024-05-11,george,2024-05-10 18:55:14
+43,TCK-H2M5ZJA,High,Resolved,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-11-02,2024-11-11,george,2024-11-02 08:37:10
+44,TCK-8DZR1YX,Medium,Resolved,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-05-14,2024-05-18,charlie,2024-05-14 02:39:16
+45,TCK-R2DHYLU,Low,In Progress,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-01-21,,george,2024-01-21 21:50:38
+46,TCK-RTP0LZJ,High,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-24,2024-12-06,alice,2024-11-24 22:33:27
+47,TCK-JEGET1G,High,In Progress,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-06-15,,irene,2024-06-15 15:57:58
+48,TCK-HR09SKD,Medium,In Progress,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-09-30,,fatima,2024-09-30 03:28:59
+49,TCK-GIGATJ9,Low,Resolved,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-03-29,2024-04-09,edward,2024-03-29 22:46:05
+50,TCK-TZE5R5U,Medium,Open,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-11-11,,george,2024-11-11 16:15:17
+51,TCK-QPGB7R3,Medium,Open,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-01-14,,edward,2024-01-14 21:04:42
+52,TCK-OCWBFUK,High,Resolved,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-29,2024-09-10,edward,2024-08-29 04:32:41
+53,TCK-9E1V2IS,Medium,In Progress,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-21,,george,2024-09-21 03:06:51
+54,TCK-QP49KWV,High,In Progress,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-11,,george,2024-12-11 02:12:34
+55,TCK-08HHXFG,Low,Resolved,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-02-22,2024-03-02,charlie,2024-02-22 01:12:50
+56,TCK-CAQVKIZ,Medium,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-05,2024-12-12,charlie,2024-12-05 13:44:25
+57,TCK-ZQY72WX,High,Open,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-04-01,,charlie,2024-04-01 11:24:22
+58,TCK-7PTX63C,Critical,Closed,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-20,2024-09-24,fatima,2024-09-20 02:22:03
+59,TCK-FL0UKEY,Critical,In Progress,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-04,,fatima,2024-02-04 04:38:36
+60,TCK-Z7SRCBP,Medium,Resolved,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-07-24,2024-08-01,charlie,2024-07-24 02:15:26
+61,TCK-LJD84U8,High,Resolved,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-03-21,2024-03-31,charlie,2024-03-21 16:05:23
+62,TCK-9YJB1QX,Medium,Closed,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-02-19,2024-02-24,henry,2024-02-19 01:59:41
+63,TCK-6GVWRDM,Medium,Resolved,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-12-25,2024-12-31,henry,2024-12-25 10:58:34
+64,TCK-LY4LYK8,High,Resolved,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-01-02,2024-01-16,george,2024-01-02 22:14:10
+65,TCK-3TQLL8O,High,Resolved,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-23,2024-02-24,diana,2024-02-23 22:47:55
+66,TCK-S9XTOGN,High,Open,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-04-15,,diana,2024-04-15 15:43:22
+67,TCK-1W1HT7P,Low,Open,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-09-16,,charlie,2024-09-16 02:23:43
+68,TCK-ZE9VIFT,High,Resolved,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-11-05,2024-11-18,edward,2024-11-05 03:42:26
+69,TCK-TD96QE3,Medium,In Progress,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-07-09,,charlie,2024-07-09 02:01:52
+70,TCK-RZSJ49I,Low,Resolved,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-05,2024-08-18,henry,2024-08-05 20:21:43
+71,TCK-TN7S55J,Medium,Open,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-02-13,,george,2024-02-13 01:54:02
+72,TCK-2O7S3KK,Low,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-06-10,2024-06-13,charlie,2024-06-10 10:44:15
+73,TCK-V9RFTMT,Medium,In Progress,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-07-20,,irene,2024-07-20 13:53:18
+74,TCK-TQLGZUI,Low,In Progress,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-09-26,,edward,2024-09-26 14:37:29
+75,TCK-1B0Z3NX,High,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-12-16,2024-12-28,irene,2024-12-16 03:29:20
+76,TCK-39RBSV5,High,Resolved,Hardware,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-10-30,2024-11-06,george,2024-10-30 22:28:31
+77,TCK-5PSQ0OX,Medium,Resolved,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-27,2024-10-03,george,2024-09-27 14:58:04
+78,TCK-FQ8MYX4,Low,In Progress,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-08-02,,fatima,2024-08-02 08:29:14
+79,TCK-44NLZ15,Low,In Progress,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-08,,bob,2024-09-08 21:49:47
+80,TCK-BCW790P,Critical,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-07-08,2024-07-13,irene,2024-07-08 22:43:09
+81,TCK-DW5PY6B,High,Open,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-10-22,,fatima,2024-10-22 00:23:10
+82,TCK-2KNFTU2,Low,Resolved,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-07-31,2024-08-03,henry,2024-07-31 16:30:29
+83,TCK-GC5WI6F,High,Resolved,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-07-26,2024-07-30,alice,2024-07-26 13:58:41
+84,TCK-QJJA26Y,Low,Resolved,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-08-24,2024-09-06,edward,2024-08-24 16:54:04
+85,TCK-FPMVXPJ,Low,Resolved,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-12-03,2024-12-09,alice,2024-12-03 15:35:12
+86,TCK-4HNRIUU,Medium,Resolved,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-22,2024-02-24,henry,2024-02-22 22:34:52
+87,TCK-9K9XJUY,Medium,Closed,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-06,2024-10-08,henry,2024-10-06 22:32:43
+88,TCK-0BVR6K2,Medium,In Progress,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-04,,alice,2024-08-04 03:41:14
+89,TCK-VMWWYZX,High,Open,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-09-08,,irene,2024-09-08 12:21:54
+90,TCK-4W6XLPU,Low,In Progress,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-07-06,,bob,2024-07-06 23:41:57
+91,TCK-0DK0GET,Medium,In Progress,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-02-10,,irene,2024-02-10 00:56:44
+92,TCK-8T63J3R,Low,Resolved,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-06-05,2024-06-12,alice,2024-06-05 16:31:56
+93,TCK-30ME8F8,High,Closed,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-01-15,2024-01-17,irene,2024-01-15 18:49:52
+94,TCK-40982N2,Low,Open,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-10-27,,diana,2024-10-27 11:56:57
+95,TCK-ATQYYV3,Medium,Open,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-03-05,,irene,2024-03-05 21:24:05
+96,TCK-7DIA5U6,Critical,In Progress,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-12-10,,george,2024-12-10 07:00:28
+97,TCK-HC36KOF,Critical,Resolved,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-11-22,2024-11-28,fatima,2024-11-22 03:55:56
+98,TCK-8KRD5EQ,Medium,Resolved,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-01-09,2024-01-23,edward,2024-01-09 03:44:19
+99,TCK-Y08P0FO,Medium,Open,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-09,,irene,2024-12-09 00:26:50
+100,TCK-DRO8BNP,Low,Closed,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-05-08,2024-05-14,bob,2024-05-08 21:40:10
+101,TCK-84DYT9M,High,Resolved,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-05-15,2024-05-25,bob,2024-05-15 02:27:33
+102,TCK-OGE4QXX,Critical,Open,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-03-03,,irene,2024-03-03 21:35:10
+103,TCK-VA2IEUC,Medium,Resolved,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-05-18,2024-05-23,charlie,2024-05-18 07:02:57
+104,TCK-1HH5LF6,Medium,Resolved,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-03-21,2024-04-03,henry,2024-03-21 20:52:12
+105,TCK-A4FEJGX,Medium,In Progress,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-06-11,,irene,2024-06-11 04:35:12
+106,TCK-AA2ILGB,Low,Open,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-10-15,,henry,2024-10-15 23:12:20
+107,TCK-0S0R2SD,Low,Open,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-09-17,,diana,2024-09-17 18:31:42
+108,TCK-S8B25SQ,Low,Open,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-08-18,,alice,2024-08-18 09:19:51
+109,TCK-8CROYR6,Low,Resolved,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-02-10,2024-02-11,diana,2024-02-10 12:56:21
+110,TCK-CCVCJWT,Medium,Closed,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-01-28,2024-02-09,irene,2024-01-28 15:19:42
+111,TCK-L9TQVDZ,Medium,Open,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-14,,bob,2024-05-14 17:31:37
+112,TCK-4X1ZHQI,Medium,Open,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-07-19,,charlie,2024-07-19 22:36:16
+113,TCK-MQODPXN,Low,Open,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-11-23,,henry,2024-11-23 16:11:17
+114,TCK-F7C3DD0,Critical,Open,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-09-24,,fatima,2024-09-24 06:46:09
+115,TCK-3UVULEM,Medium,Resolved,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-02,2024-02-10,henry,2024-02-02 08:51:10
+116,TCK-X15Z8VM,Critical,In Progress,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-02-17,,george,2024-02-17 05:00:45
+117,TCK-UHXID4N,Medium,In Progress,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-03-02,,edward,2024-03-02 01:36:16
+118,TCK-1U3493W,Low,Open,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-03,,irene,2024-08-03 02:12:08
+119,TCK-XA73JGZ,Low,Resolved,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-10-19,2024-10-28,diana,2024-10-19 04:38:55
+120,TCK-LMA5UOF,High,In Progress,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-04-08,,fatima,2024-04-08 11:20:50
+121,TCK-WB0HPMN,Low,Resolved,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-06-20,2024-06-22,bob,2024-06-20 21:16:54
+122,TCK-Z1UDBFW,Medium,Open,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-25,,bob,2024-12-25 15:52:07
+123,TCK-YJXRPJ1,Critical,Resolved,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-08-01,2024-08-08,bob,2024-08-01 18:40:56
+124,TCK-EPKYRYB,High,Resolved,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-02-04,2024-02-06,george,2024-02-04 23:43:40
+125,TCK-OVAKHEJ,High,Open,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-14,,bob,2024-08-14 13:01:30
+126,TCK-LA0GNZS,Critical,In Progress,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-04-10,,bob,2024-04-10 11:19:48
+127,TCK-43C5BA7,Low,Closed,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-05-10,2024-05-19,irene,2024-05-10 21:15:02
+128,TCK-5UUZPEA,Medium,Closed,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-09-13,2024-09-18,george,2024-09-13 19:42:08
+129,TCK-L2W37D4,Low,In Progress,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-01-05,,charlie,2024-01-05 05:18:07
+130,TCK-IVSOLML,High,In Progress,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-05,,charlie,2024-08-05 05:22:01
+131,TCK-GSES6M0,High,Closed,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-09-11,2024-09-25,george,2024-09-11 17:05:41
+132,TCK-33IFHV1,Medium,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-24,2024-12-31,edward,2024-12-24 11:14:18
+133,TCK-XG1R11Q,High,Open,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-09,,fatima,2024-10-09 21:57:59
+134,TCK-7UWW5WF,Medium,Closed,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-07-25,2024-08-04,henry,2024-07-25 12:29:04
+135,TCK-CPKJCSL,Low,Open,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-01-15,,irene,2024-01-15 10:35:50
+136,TCK-QC3C54W,Medium,Resolved,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-11,2024-12-25,alice,2024-12-11 13:25:43
+137,TCK-SQT26Q3,Medium,Open,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-02-11,,charlie,2024-02-11 00:17:39
+138,TCK-XLRFCD6,High,Open,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-06-27,,george,2024-06-27 18:50:53
+139,TCK-MZSGIPP,Critical,In Progress,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-03-03,,fatima,2024-03-03 21:21:05
+140,TCK-SFNKOMV,High,Resolved,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-17,2024-12-23,george,2024-12-17 23:56:43
+141,TCK-2XCDYK0,Medium,In Progress,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-08-18,,henry,2024-08-18 05:15:53
+142,TCK-X65MUFM,Critical,Open,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-28,,fatima,2024-08-28 02:05:12
+143,TCK-8ZOV7LN,Medium,Open,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-02-21,,charlie,2024-02-21 08:38:34
+144,TCK-23Y30YS,Medium,Resolved,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-04-05,2024-04-15,bob,2024-04-05 18:27:47
+145,TCK-XPNNGH8,Medium,Closed,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-09,2024-08-13,george,2024-08-09 20:22:08
+146,TCK-RIEC4D1,High,In Progress,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-18,,alice,2024-08-18 01:59:17
+147,TCK-45BM1EN,High,Resolved,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-08-24,2024-09-05,charlie,2024-08-24 15:22:00
+148,TCK-F313FPO,Low,Closed,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-22,2024-05-24,diana,2024-05-22 12:31:04
+149,TCK-YIPK0QT,Medium,Resolved,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-06-19,2024-06-20,alice,2024-06-19 07:06:52
+150,TCK-L3Q4N89,Medium,Open,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-01-29,,edward,2024-01-29 07:17:43
+151,TCK-QKNS832,Critical,In Progress,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-05,,charlie,2024-02-05 23:19:18
+152,TCK-EJX5TD4,Low,In Progress,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-01-13,,bob,2024-01-13 07:19:39
+153,TCK-4K1J6FP,Medium,In Progress,Access,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-06-08,,charlie,2024-06-08 02:29:25
+154,TCK-8HQMABS,High,In Progress,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-11-22,,henry,2024-11-22 12:26:07
+155,TCK-I9NB74X,Low,Resolved,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-07-05,2024-07-16,fatima,2024-07-05 06:53:39
+156,TCK-2EK3ZEZ,High,In Progress,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-08-30,,george,2024-08-30 17:19:14
+157,TCK-QACJ4T0,Medium,In Progress,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-03-26,,fatima,2024-03-26 17:01:03
+158,TCK-SEKKBP2,Medium,Resolved,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-10,2024-10-14,fatima,2024-10-10 21:50:12
+159,TCK-QD6VASI,High,In Progress,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-06,,charlie,2024-03-06 12:03:23
+160,TCK-FPWIOXD,Low,Resolved,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-06-18,2024-07-01,henry,2024-06-18 21:03:33
+161,TCK-9CSS9TO,Medium,Resolved,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-02-14,2024-02-19,george,2024-02-14 20:36:39
+162,TCK-QW9JA2M,Medium,In Progress,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-02,,george,2024-03-02 12:13:15
+163,TCK-0W10LBT,High,Resolved,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-05-13,2024-05-15,fatima,2024-05-13 22:25:53
+164,TCK-3G2QZW3,Critical,Resolved,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-10-10,2024-10-24,edward,2024-10-10 10:54:33
+165,TCK-C1QKBHB,High,Resolved,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-01-28,2024-02-01,henry,2024-01-28 15:14:39
+166,TCK-7S9TJ1G,Low,In Progress,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-17,,edward,2024-04-17 11:57:52
+167,TCK-M25LEN6,High,In Progress,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-02-13,,irene,2024-02-13 05:54:30
+168,TCK-06N9RR7,Medium,Resolved,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-05,2024-12-19,irene,2024-12-05 03:49:02
+169,TCK-S20CV3T,Medium,Open,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-10-12,,alice,2024-10-12 16:32:26
+170,TCK-LCXLVPY,High,In Progress,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-11-26,,fatima,2024-11-26 01:32:10
+171,TCK-MB5M9J9,Medium,Open,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-05-07,,george,2024-05-07 18:03:22
+172,TCK-8CWN2Y8,Critical,Resolved,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-13,2024-12-15,charlie,2024-12-13 07:59:17
+173,TCK-FV2BC2N,Low,In Progress,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-08-18,,george,2024-08-18 00:08:04
+174,TCK-NUVY8N1,Medium,Closed,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-07-08,2024-07-15,george,2024-07-08 23:15:24
+175,TCK-UTOXIE0,High,Resolved,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-08-12,2024-08-17,bob,2024-08-12 08:07:12
+176,TCK-RNUJJQ9,High,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-10-09,2024-10-17,george,2024-10-09 08:23:02
+177,TCK-K6RE4Q6,Medium,Closed,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-04-30,2024-05-11,alice,2024-04-30 16:59:09
+178,TCK-QDY4LMC,Low,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-04-25,2024-05-09,edward,2024-04-25 22:42:58
+179,TCK-T64Z7W2,Medium,Closed,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-20,2024-08-26,irene,2024-08-20 07:45:36
+180,TCK-SEHE2AT,Medium,In Progress,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-15,,george,2024-09-15 08:42:08
+181,TCK-N2TWDL9,High,Resolved,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-12-24,2024-12-27,george,2024-12-24 17:30:12
+182,TCK-ZS13C9X,High,In Progress,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-07-16,,bob,2024-07-16 12:04:12
+183,TCK-QYM52XG,Critical,Open,Access,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-05-16,,henry,2024-05-16 13:41:11
+184,TCK-8P6BEFF,Medium,Resolved,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-11-13,2024-11-19,charlie,2024-11-13 07:28:31
+185,TCK-LZM764J,Low,Resolved,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-06-13,2024-06-19,henry,2024-06-13 14:34:29
+186,TCK-WTEKTSG,Medium,In Progress,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-12,,charlie,2024-08-12 06:42:29
+187,TCK-7FXZV4U,High,Resolved,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-11-02,2024-11-06,george,2024-11-02 00:14:41
+188,TCK-3BBXUX1,Medium,Closed,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-21,2024-09-01,bob,2024-08-21 13:12:35
+189,TCK-OXRWK8R,Low,Resolved,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-06-20,2024-06-25,diana,2024-06-20 00:21:36
+190,TCK-2YKCCPR,Medium,Resolved,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-05-31,2024-06-12,fatima,2024-05-31 02:41:04
+191,TCK-HVLZ049,Low,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-11-10,2024-11-21,irene,2024-11-10 13:01:48
+192,TCK-ENULQJI,High,Closed,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-06-08,2024-06-19,edward,2024-06-08 01:05:34
+193,TCK-DKNWI5F,High,Resolved,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-04-05,2024-04-07,irene,2024-04-05 20:11:44
+194,TCK-LUL1RSR,Low,Resolved,Access,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-08-20,2024-08-30,edward,2024-08-20 04:11:38
+195,TCK-LA8S8HM,Medium,Closed,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-06-28,2024-07-09,henry,2024-06-28 05:11:04
+196,TCK-BR5XQT4,High,Closed,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-04-22,2024-04-25,alice,2024-04-22 10:34:46
+197,TCK-P501NOU,Medium,Open,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-11-13,,george,2024-11-13 16:02:05
+198,TCK-HTCS1K9,Low,In Progress,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-02-21,,diana,2024-02-21 07:04:40
+199,TCK-YE9O2M7,Medium,In Progress,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-09-24,,edward,2024-09-24 22:59:10
+200,TCK-1HSSBEL,Medium,Open,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-10-21,,fatima,2024-10-21 21:19:27
+201,TCK-RQVSLWF,Medium,Resolved,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-04-22,2024-05-01,edward,2024-04-22 13:06:14
+202,TCK-90KM3TZ,Medium,Resolved,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-10,2024-04-22,alice,2024-04-10 01:35:54
+203,TCK-K3NY9V2,Medium,Resolved,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-04-22,2024-04-26,irene,2024-04-22 01:04:50
+204,TCK-0YAR821,Low,Open,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-03-21,,bob,2024-03-21 07:14:59
+205,TCK-UZVGWW4,Low,Closed,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-07-05,2024-07-08,irene,2024-07-05 07:12:09
+206,TCK-FYB8DAL,Low,Resolved,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-22,2024-04-30,bob,2024-04-22 10:20:37
+207,TCK-FYO1750,Critical,Resolved,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-01-02,2024-01-09,irene,2024-01-02 06:20:25
+208,TCK-CEHLXSL,Medium,Closed,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-05-09,2024-05-14,fatima,2024-05-09 07:58:17
+209,TCK-G6MM1ZX,Low,Resolved,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-07,2024-08-18,irene,2024-08-07 09:32:20
+210,TCK-YVGIUI9,Medium,In Progress,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-02-23,,fatima,2024-02-23 06:20:43
+211,TCK-KKHZLM7,Low,Resolved,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-08,2024-12-20,fatima,2024-12-08 12:22:20
+212,TCK-2JEYN93,Low,In Progress,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-08-11,,bob,2024-08-11 20:11:20
+213,TCK-82KKZMP,Medium,Open,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-08-12,,henry,2024-08-12 08:57:19
+214,TCK-JRHT7ZE,Medium,Resolved,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-05-05,2024-05-14,charlie,2024-05-05 06:30:01
+215,TCK-WVIYTWB,High,In Progress,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-05-09,,george,2024-05-09 07:08:08
+216,TCK-OZD1AT7,Medium,Resolved,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-02-22,2024-02-26,edward,2024-02-22 00:46:57
+217,TCK-O75RH8L,Medium,In Progress,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-06-20,,charlie,2024-06-20 06:24:38
+218,TCK-X6DUT07,Low,Closed,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-08-05,2024-08-16,alice,2024-08-05 09:31:53
+219,TCK-6G5G79O,High,Open,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-06-08,,henry,2024-06-08 03:41:03
+220,TCK-R7875AU,High,Closed,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-07-16,2024-07-22,charlie,2024-07-16 00:45:51
+221,TCK-D9K9TR7,Medium,Resolved,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-09-03,2024-09-17,bob,2024-09-03 04:59:48
+222,TCK-4QGEFQJ,Critical,Open,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-11-19,,alice,2024-11-19 13:47:46
+223,TCK-G02U1G4,High,Resolved,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-07-21,2024-08-03,diana,2024-07-21 23:50:35
+224,TCK-63SDYGF,Critical,Closed,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-07-02,2024-07-15,henry,2024-07-02 04:02:24
+225,TCK-LIJI18K,High,In Progress,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-05-02,,charlie,2024-05-02 12:19:12
+226,TCK-0AXYCEL,High,Open,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-09-11,,alice,2024-09-11 07:39:16
+227,TCK-OS6ZLE6,Medium,In Progress,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-10-20,,diana,2024-10-20 11:06:26
+228,TCK-KWHEF0V,Medium,Resolved,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-06,2024-10-07,irene,2024-10-06 16:36:35
+229,TCK-OTQTXHI,Low,Resolved,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-20,2024-11-24,alice,2024-11-20 08:44:36
+230,TCK-15CQZCU,Medium,Resolved,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-04-07,2024-04-21,bob,2024-04-07 13:27:29
+231,TCK-CTSUFLS,Medium,In Progress,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-07-16,,irene,2024-07-16 13:33:24
+232,TCK-EHUDS3Q,High,Open,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-27,,bob,2024-08-27 06:14:20
+233,TCK-SQCQ30O,High,Resolved,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-05-23,2024-05-24,charlie,2024-05-23 19:11:05
+234,TCK-30UBMC9,Medium,In Progress,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-04-06,,george,2024-04-06 22:41:24
+235,TCK-7C7BO11,Critical,Open,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-07-19,,charlie,2024-07-19 15:47:28
+236,TCK-9XP9N56,Medium,Closed,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-05-03,2024-05-16,irene,2024-05-03 02:22:49
+237,TCK-NYXTXMG,Medium,Resolved,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-07-05,2024-07-11,fatima,2024-07-05 04:18:51
+238,TCK-TT0IAAK,Medium,Resolved,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-21,2024-11-28,charlie,2024-11-21 05:15:31
+239,TCK-YTT3IMJ,Critical,Resolved,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-12-14,2024-12-19,irene,2024-12-14 04:45:43
+240,TCK-70E3P15,High,Resolved,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-15,2024-09-17,alice,2024-09-15 06:54:16
+241,TCK-AHDBVZB,Medium,Resolved,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-05-27,2024-05-31,charlie,2024-05-27 06:58:44
+242,TCK-0OIH5CS,High,In Progress,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-09-08,,alice,2024-09-08 19:23:23
+243,TCK-K30LVYL,Medium,Open,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-11,,bob,2024-12-11 13:46:10
+244,TCK-KFXHKC8,Medium,In Progress,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-05-26,,henry,2024-05-26 13:37:34
+245,TCK-56WPR97,Low,In Progress,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-05-27,,george,2024-05-27 11:34:34
+246,TCK-Y2LOFN1,High,Resolved,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-17,2024-12-27,bob,2024-12-17 21:49:44
+247,TCK-R4KZ36U,Low,Open,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-07-17,,bob,2024-07-17 15:38:20
+248,TCK-8UEIHX7,Medium,Open,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-03,,irene,2024-11-03 23:09:40
+249,TCK-4D0GJYV,Medium,In Progress,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-05-07,,fatima,2024-05-07 08:54:13
+250,TCK-5G10UR5,High,In Progress,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-02-08,,edward,2024-02-08 01:40:54
+251,TCK-L8A78E9,Medium,Resolved,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-03,2024-12-15,fatima,2024-12-03 22:25:44
+252,TCK-RIVH6T1,High,In Progress,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-12-25,,irene,2024-12-25 21:23:01
+253,TCK-NTMJSRD,Medium,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-05-08,2024-05-14,george,2024-05-08 06:53:05
+254,TCK-9Q46NOU,Critical,In Progress,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-09-23,,irene,2024-09-23 19:29:44
+255,TCK-HFJ7UPF,Low,Resolved,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-30,2024-06-03,diana,2024-05-30 10:42:39
+256,TCK-LN4RXYJ,Low,Resolved,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-10-24,2024-11-04,bob,2024-10-24 05:24:32
+257,TCK-38XRG2G,Medium,In Progress,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-04-08,,henry,2024-04-08 11:55:49
+258,TCK-ZR7TXCB,High,Resolved,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-19,2024-09-27,diana,2024-09-19 08:59:57
+259,TCK-48Y1O4I,High,In Progress,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-09-08,,irene,2024-09-08 01:56:20
+260,TCK-ZASNWYW,Medium,In Progress,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-23,,diana,2024-05-23 22:55:04
+261,TCK-RRATATJ,Medium,Closed,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-12-11,2024-12-18,henry,2024-12-11 10:11:49
+262,TCK-9A3Y36D,High,Open,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-04-21,,irene,2024-04-21 04:36:15
+263,TCK-DFGS3JO,Medium,Open,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-29,,irene,2024-02-29 18:30:19
+264,TCK-NOU9IY4,Low,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-01-02,2024-01-13,diana,2024-01-02 21:15:56
+265,TCK-X41DNTC,Medium,Open,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-10-30,,alice,2024-10-30 17:48:12
+266,TCK-AGRP2U4,Medium,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-10,2024-09-18,charlie,2024-09-10 07:37:05
+267,TCK-DTBH55R,Low,In Progress,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-05-19,,irene,2024-05-19 02:57:50
+268,TCK-BC76UB7,High,Closed,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-02-06,2024-02-09,diana,2024-02-06 17:08:11
+269,TCK-L8V1ZOC,Medium,Resolved,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-06-08,2024-06-13,edward,2024-06-08 22:23:14
+270,TCK-FI4O6L1,Low,Resolved,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-01-09,2024-01-12,george,2024-01-09 02:21:43
+271,TCK-F90S9BP,High,Closed,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-20,2024-08-24,edward,2024-08-20 06:05:45
+272,TCK-4M18O1B,Medium,In Progress,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-04-08,,diana,2024-04-08 18:31:05
+273,TCK-J9RM7PY,Medium,Closed,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-05-26,2024-06-07,bob,2024-05-26 14:07:51
+274,TCK-XDW2ZCF,Medium,Open,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-30,,bob,2024-10-30 23:29:10
+275,TCK-ZW0LDAL,Medium,In Progress,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-07-26,,diana,2024-07-26 18:32:16
+276,TCK-MJEGQTO,Low,In Progress,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-05-10,,irene,2024-05-10 13:37:35
+277,TCK-AMDVLNK,Low,Resolved,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-05-31,2024-06-09,henry,2024-05-31 18:09:10
+278,TCK-ND669UG,Critical,Open,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-23,,charlie,2024-02-23 18:53:32
+279,TCK-NEKRCPP,Low,Resolved,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-04-29,2024-05-08,irene,2024-04-29 16:54:12
+280,TCK-RCJIWVH,High,Resolved,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-06-09,2024-06-14,edward,2024-06-09 06:31:01
+281,TCK-DK8LW2L,Medium,Closed,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-04-25,2024-05-07,charlie,2024-04-25 11:43:02
+282,TCK-M349EL8,Medium,Open,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-03-15,,edward,2024-03-15 13:36:45
+283,TCK-HL88KZR,Medium,Resolved,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-04-22,2024-05-02,diana,2024-04-22 19:07:55
+284,TCK-UIN3OEU,Medium,In Progress,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-04-13,,henry,2024-04-13 17:35:46
+285,TCK-VTYT8QZ,Low,In Progress,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-05,,edward,2024-12-05 18:00:53
+286,TCK-PKY32OR,Medium,In Progress,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-09-10,,henry,2024-09-10 17:14:56
+287,TCK-WIXZ2C9,Medium,In Progress,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-14,,irene,2024-08-14 09:46:11
+288,TCK-ROS7YT2,Critical,Resolved,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-04-21,2024-04-28,diana,2024-04-21 21:09:37
+289,TCK-M6TWD1X,Low,Resolved,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-04-08,2024-04-18,george,2024-04-08 14:35:52
+290,TCK-MXB9YO1,Low,In Progress,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-06-01,,bob,2024-06-01 23:13:57
+291,TCK-8PAJSSU,Low,Open,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-14,,fatima,2024-12-14 21:15:43
+292,TCK-UQO1VSM,Critical,Open,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-12-31,,henry,2024-12-31 23:39:22
+293,TCK-ADO8E7F,Critical,Open,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-03,,george,2024-12-03 01:19:57
+294,TCK-LQHRRPZ,High,Closed,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-07-12,2024-07-19,george,2024-07-12 07:32:38
+295,TCK-LK3E4XY,High,Open,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-11-05,,henry,2024-11-05 07:59:33
+296,TCK-F9IGFU8,Medium,Open,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-06-11,,george,2024-06-11 07:23:27
+297,TCK-IOGXPBW,Low,In Progress,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-07-26,,edward,2024-07-26 16:27:35
+298,TCK-HVNZH13,Medium,Resolved,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-06-17,2024-06-23,george,2024-06-17 08:32:01
+299,TCK-CD5GLQJ,Critical,Closed,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-09,2024-06-13,charlie,2024-06-09 14:24:51
+300,TCK-5SXVWVM,High,Resolved,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-03-08,2024-03-11,edward,2024-03-08 07:57:31
+301,TCK-4W3ZKWD,Critical,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-10-15,2024-10-24,george,2024-10-15 11:08:27
+302,TCK-EEKGYSP,Critical,Resolved,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-03,2024-10-11,irene,2024-10-03 15:28:28
+303,TCK-ENGWYX9,High,Open,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-30,,bob,2024-10-30 13:43:45
+304,TCK-TRFLQBM,High,Closed,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-05-14,2024-05-16,diana,2024-05-14 20:48:10
+305,TCK-AE38SRY,Low,Resolved,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-07-13,2024-07-26,george,2024-07-13 05:43:25
+306,TCK-O4RCB1K,Low,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-05-07,2024-05-08,alice,2024-05-07 13:37:14
+307,TCK-JTGQ01T,Medium,Resolved,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-02,2024-02-16,bob,2024-02-02 09:16:01
+308,TCK-EE13N3B,Medium,Resolved,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-06-24,2024-06-26,irene,2024-06-24 20:02:41
+309,TCK-ZT9D31K,Low,Resolved,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-01-22,2024-01-25,george,2024-01-22 03:05:09
+310,TCK-9QM3P91,High,Closed,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-25,2024-09-05,george,2024-08-25 04:53:26
+311,TCK-I3VMZWF,High,Closed,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-06-06,2024-06-09,fatima,2024-06-06 03:03:33
+312,TCK-FHHCMKT,Low,Resolved,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-07,2024-02-20,charlie,2024-02-07 10:44:32
+313,TCK-LZKJ49Y,Critical,Resolved,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-08-17,2024-08-28,charlie,2024-08-17 16:11:02
+314,TCK-D82795E,Medium,Open,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-30,,bob,2024-12-30 18:53:22
+315,TCK-5IZ31YR,Medium,Resolved,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-20,2024-02-27,fatima,2024-02-20 12:48:01
+316,TCK-UJOQW5D,High,Open,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-09-20,,diana,2024-09-20 08:22:49
+317,TCK-SK7N8LA,High,Resolved,Hardware,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-10-09,2024-10-19,edward,2024-10-09 21:15:41
+318,TCK-100QXMC,Low,Closed,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-01-27,2024-01-29,charlie,2024-01-27 01:29:52
+319,TCK-THPHJ3M,Critical,Resolved,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-08-13,2024-08-20,fatima,2024-08-13 16:56:21
+320,TCK-UURMYBD,High,In Progress,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-10-03,,charlie,2024-10-03 18:39:03
+321,TCK-2QE4PA8,Medium,In Progress,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-10-12,,henry,2024-10-12 22:36:52
+322,TCK-HYEXF7J,Medium,Open,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-06,,irene,2024-04-06 12:14:49
+323,TCK-XJN6FOK,High,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-10-10,2024-10-17,diana,2024-10-10 15:30:50
+324,TCK-ZIXZARE,Low,Open,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-11-12,,irene,2024-11-12 16:25:33
+325,TCK-IYAZ39P,Medium,Open,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-10-30,,george,2024-10-30 17:01:22
+326,TCK-ECN0DL5,Low,In Progress,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-05-26,,charlie,2024-05-26 15:44:49
+327,TCK-E11E9FT,Low,Resolved,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-01-04,2024-01-14,george,2024-01-04 14:53:22
+328,TCK-AXP0WFO,Medium,Resolved,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-02-04,2024-02-12,alice,2024-02-04 13:22:50
+329,TCK-Y4DD1VN,Medium,Open,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-07-10,,charlie,2024-07-10 18:06:53
+330,TCK-8LFJDTV,Low,In Progress,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-02-18,,fatima,2024-02-18 11:32:32
+331,TCK-V2Y4XKS,High,Resolved,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-01-17,2024-01-26,diana,2024-01-17 09:56:25
+332,TCK-S0KB68R,Medium,Resolved,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-20,2024-06-25,george,2024-06-20 13:55:18
+333,TCK-ERVT997,High,Resolved,Hardware,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-08-07,2024-08-16,charlie,2024-08-07 00:53:59
+334,TCK-E4UNY18,High,In Progress,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-06-06,,alice,2024-06-06 06:32:16
+335,TCK-1ACJBC2,High,Resolved,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-02-15,2024-02-29,irene,2024-02-15 16:04:52
+336,TCK-SWSOZCT,Low,In Progress,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-01-06,,fatima,2024-01-06 08:30:43
+337,TCK-WJLSH3T,Low,Closed,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-08,2024-04-09,henry,2024-04-08 09:40:15
+338,TCK-OW4YCZ0,High,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-20,2024-08-31,charlie,2024-08-20 23:29:47
+339,TCK-4CDPQVL,Critical,In Progress,Hardware,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-02-06,,henry,2024-02-06 02:45:46
+340,TCK-00EZZF8,Medium,In Progress,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-10-06,,bob,2024-10-06 13:04:27
+341,TCK-S2ZGE2J,Medium,Resolved,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-12-14,2024-12-26,diana,2024-12-14 03:00:02
+342,TCK-51B3JCZ,Critical,Resolved,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-10-28,2024-10-30,charlie,2024-10-28 10:43:23
+343,TCK-UCQMRUN,Medium,Resolved,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-29,2024-07-10,alice,2024-06-29 18:16:07
+344,TCK-JDU0ISB,Medium,Resolved,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-04-04,2024-04-13,george,2024-04-04 18:40:12
+345,TCK-5IQNF74,Low,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-08,2024-04-21,bob,2024-04-08 19:54:10
+346,TCK-T60PLOZ,High,Resolved,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-07-06,2024-07-11,diana,2024-07-06 23:26:05
+347,TCK-JCNS6G2,Medium,In Progress,Access,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-04-25,,irene,2024-04-25 02:50:44
+348,TCK-98CQK4L,Medium,Closed,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-07-09,2024-07-22,fatima,2024-07-09 10:03:51
+349,TCK-TAHUKWQ,Low,In Progress,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-09-09,,henry,2024-09-09 08:17:30
+350,TCK-VR1H61I,Medium,In Progress,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-09,,bob,2024-06-09 03:34:58
+351,TCK-AOIM458,Medium,Closed,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-09-12,2024-09-23,george,2024-09-12 04:19:03
+352,TCK-AX40DTI,High,Open,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-11-18,,fatima,2024-11-18 02:35:51
+353,TCK-RC9ZD76,Low,Open,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-05-07,,irene,2024-05-07 13:06:56
+354,TCK-SZN9DDE,Medium,In Progress,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-01-18,,george,2024-01-18 01:23:37
+355,TCK-3CUP8IJ,High,Closed,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-10-07,2024-10-13,alice,2024-10-07 19:52:48
+356,TCK-L2Z0LJC,Medium,Open,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-08-10,,henry,2024-08-10 07:17:34
+357,TCK-H2VFFQO,High,Open,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-02-23,,charlie,2024-02-23 12:09:06
+358,TCK-T8HLJEF,Critical,Open,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-27,,bob,2024-02-27 07:09:34
+359,TCK-Y3ZB4LD,Low,Open,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-11-18,,charlie,2024-11-18 11:59:14
+360,TCK-IMSYJ9B,Medium,Open,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-25,,fatima,2024-12-25 09:06:11
+361,TCK-OQ0IQ2F,Medium,In Progress,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-06-22,,charlie,2024-06-22 11:01:17
+362,TCK-A39E3NW,High,Resolved,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-10-06,2024-10-08,edward,2024-10-06 09:59:34
+363,TCK-XUJ3AC6,Low,In Progress,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-04-23,,fatima,2024-04-23 06:56:27
+364,TCK-PE63LBQ,High,In Progress,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-10-14,,henry,2024-10-14 21:59:31
+365,TCK-GU3OBYG,Medium,Open,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-12-07,,george,2024-12-07 05:01:10
+366,TCK-HGK5BWI,Low,In Progress,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-05-30,,henry,2024-05-30 19:46:28
+367,TCK-KOTCKEH,Low,Resolved,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-06,2024-05-11,charlie,2024-05-06 09:30:27
+368,TCK-5SW2292,Medium,Resolved,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-06-03,2024-06-10,diana,2024-06-03 00:18:38
+369,TCK-MTR6SNG,High,Open,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-29,,fatima,2024-09-29 10:54:12
+370,TCK-LH62C9T,Low,In Progress,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-04-13,,george,2024-04-13 10:15:42
+371,TCK-199DXJ3,Medium,In Progress,Hardware,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-10-25,,irene,2024-10-25 12:37:13
+372,TCK-7C9H42M,Low,Closed,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-09-02,2024-09-05,alice,2024-09-02 14:42:08
+373,TCK-44GV3Z6,Low,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-06-24,2024-07-02,henry,2024-06-24 14:46:23
+374,TCK-BZ8UUG9,Critical,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-02-08,2024-02-09,henry,2024-02-08 21:06:55
+375,TCK-5RLRDIH,High,In Progress,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-06-18,,fatima,2024-06-18 23:51:32
+376,TCK-SA7HEZ7,Medium,Closed,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-03,2024-09-15,diana,2024-09-03 00:25:58
+377,TCK-4LAV714,High,Open,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-01-26,,charlie,2024-01-26 17:11:06
+378,TCK-48N7ODK,High,Open,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-12-20,,charlie,2024-12-20 23:48:53
+379,TCK-EF828XG,Low,In Progress,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-11-01,,fatima,2024-11-01 18:39:53
+380,TCK-8Y72IVG,Medium,Open,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-01-13,,henry,2024-01-13 05:26:06
+381,TCK-LYE088O,Low,Closed,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-11-11,2024-11-23,george,2024-11-11 14:28:21
+382,TCK-98BV78H,Medium,Resolved,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-11-08,2024-11-13,alice,2024-11-08 08:17:09
+383,TCK-U7F0I9G,Medium,In Progress,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-05,,fatima,2024-02-05 08:15:43
+384,TCK-5DZX5QJ,Critical,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-06-21,2024-06-30,george,2024-06-21 07:38:28
+385,TCK-ICJDAN0,High,Closed,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-01-20,2024-02-02,george,2024-01-20 17:16:25
+386,TCK-85RNTDR,High,Closed,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-11-16,2024-11-19,irene,2024-11-16 08:30:34
+387,TCK-5XYFC4K,Medium,Resolved,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-20,2024-09-29,edward,2024-09-20 18:46:50
+388,TCK-L8CGN0T,Low,Closed,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-05-21,2024-05-23,alice,2024-05-21 21:22:19
+389,TCK-6DVWRB7,Medium,Closed,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-05-22,2024-06-05,bob,2024-05-22 20:07:12
+390,TCK-F6FDHGZ,Medium,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-04-01,2024-04-12,diana,2024-04-01 17:03:58
+391,TCK-Z0JKIBU,Medium,Open,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-12-19,,edward,2024-12-19 16:47:56
+392,TCK-4FMPKXV,Critical,In Progress,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-17,,irene,2024-11-17 12:24:10
+393,TCK-HAGKC4L,Medium,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-10-14,2024-10-19,alice,2024-10-14 03:07:35
+394,TCK-ORXDTG5,High,Open,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-08-02,,charlie,2024-08-02 11:23:55
+395,TCK-NQJQIJC,High,Resolved,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-12-07,2024-12-21,edward,2024-12-07 06:50:21
+396,TCK-1YDMT8V,Critical,Open,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-02-20,,charlie,2024-02-20 15:36:42
+397,TCK-T43PT5R,Medium,Open,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-06-01,,diana,2024-06-01 15:12:27
+398,TCK-5RC6ZS6,Low,In Progress,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-07-04,,charlie,2024-07-04 07:37:50
+399,TCK-2YWE1G9,High,Open,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-03-03,,diana,2024-03-03 15:58:18
+400,TCK-83EP9P9,High,Closed,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-07-08,2024-07-19,alice,2024-07-08 16:22:58
+401,TCK-W4J66CN,Medium,Resolved,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-05-04,2024-05-13,henry,2024-05-04 20:19:56
+402,TCK-OLJQ52W,High,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-05-29,2024-06-08,diana,2024-05-29 01:05:45
+403,TCK-SPOFV17,Low,Resolved,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-11-09,2024-11-13,george,2024-11-09 13:38:32
+404,TCK-7UDKTMO,Medium,Open,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-02-27,,bob,2024-02-27 05:03:32
+405,TCK-NRVBJFV,Medium,Resolved,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-12-07,2024-12-10,bob,2024-12-07 21:01:35
+406,TCK-YB6LI07,Medium,Resolved,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-31,2024-11-06,fatima,2024-10-31 04:40:22
+407,TCK-6A3KKRZ,High,Resolved,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-06-28,2024-07-11,bob,2024-06-28 11:07:31
+408,TCK-D5E9P3J,Medium,In Progress,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-18,,fatima,2024-06-18 00:21:08
+409,TCK-PXGH301,Medium,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-21,2024-11-24,bob,2024-11-21 18:11:49
+410,TCK-53SFLSE,Low,In Progress,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-09-27,,diana,2024-09-27 23:59:16
+411,TCK-45BG34I,High,Closed,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-02-23,2024-03-03,george,2024-02-23 12:54:46
+412,TCK-Q7ZJ3SW,Medium,Closed,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-04-10,2024-04-23,henry,2024-04-10 12:22:21
+413,TCK-EBNVG5V,Medium,In Progress,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-09-20,,charlie,2024-09-20 08:12:35
+414,TCK-MF60YKN,Critical,Resolved,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-02-22,2024-03-02,irene,2024-02-22 15:15:38
+415,TCK-FU84XYJ,Medium,Resolved,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-02-29,2024-03-01,bob,2024-02-29 15:29:59
+416,TCK-OA21A6X,Medium,Open,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-04-17,,henry,2024-04-17 14:41:10
+417,TCK-VAJ2K8X,Low,Closed,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-01-05,2024-01-15,henry,2024-01-05 19:34:24
+418,TCK-PNMJQY3,High,Closed,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-04-12,2024-04-18,diana,2024-04-12 10:54:34
+419,TCK-ODSX4NX,Low,In Progress,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-07-14,,alice,2024-07-14 11:52:19
+420,TCK-VKDC9X5,Low,In Progress,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-18,,alice,2024-09-18 21:22:13
+421,TCK-JZ6KF16,Low,In Progress,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-30,,bob,2024-12-30 00:50:46
+422,TCK-22VXYZX,High,In Progress,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-15,,irene,2024-12-15 20:39:53
+423,TCK-9JPNBZU,Medium,Open,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-16,,bob,2024-02-16 01:10:21
+424,TCK-G0IT26Y,High,Closed,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-20,2024-12-28,bob,2024-12-20 05:03:56
+425,TCK-S445GDE,Low,Open,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-11-06,,fatima,2024-11-06 05:35:44
+426,TCK-J31GYMD,Medium,In Progress,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-11-03,,george,2024-11-03 12:01:26
+427,TCK-M0L2LJK,High,Closed,Access,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-05-23,2024-05-24,george,2024-05-23 20:41:13
+428,TCK-4Q5V7C6,Medium,Resolved,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-25,2024-09-27,irene,2024-09-25 22:55:54
+429,TCK-S5NKB4E,High,In Progress,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-05-03,,fatima,2024-05-03 21:57:16
+430,TCK-HOU6QLZ,Low,In Progress,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-04-15,,henry,2024-04-15 22:07:50
+431,TCK-2RWGWAJ,Low,Open,Hardware,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-06-06,,fatima,2024-06-06 20:53:39
+432,TCK-1G1R1DW,Medium,Resolved,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-26,2024-06-01,bob,2024-05-26 14:13:54
+433,TCK-WO8NBHN,High,Open,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-05-24,,alice,2024-05-24 13:53:00
+434,TCK-AL3GYWI,Medium,Resolved,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-04-29,2024-05-13,edward,2024-04-29 07:26:05
+435,TCK-YMENVG3,Critical,Closed,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-11-14,2024-11-27,irene,2024-11-14 14:13:21
+436,TCK-KK0VM59,Critical,Open,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-01,,henry,2024-10-01 02:19:10
+437,TCK-M6MG87O,Low,Closed,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-04-01,2024-04-06,diana,2024-04-01 19:27:36
+438,TCK-I0E0VGN,High,Closed,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-27,2024-03-02,edward,2024-02-27 14:04:10
+439,TCK-XB5JTB9,Medium,Open,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-12-11,,edward,2024-12-11 06:51:25
+440,TCK-XXAYPNT,Low,Closed,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-08-16,2024-08-17,fatima,2024-08-16 17:17:10
+441,TCK-RFZWKXX,High,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-26,2024-04-30,charlie,2024-04-26 03:57:19
+442,TCK-JVE3DZE,High,Closed,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-11-13,2024-11-23,edward,2024-11-13 11:58:21
+443,TCK-EDHHJSH,Low,Resolved,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-10-05,2024-10-07,bob,2024-10-05 20:44:07
+444,TCK-ZKBRH7L,High,Resolved,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-05-06,2024-05-08,alice,2024-05-06 16:26:23
+445,TCK-AY64YFD,Low,Resolved,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-05-08,2024-05-20,alice,2024-05-08 23:15:55
+446,TCK-S0DJI9K,Low,Closed,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-02-27,2024-03-06,george,2024-02-27 11:05:30
+447,TCK-QDGBK2L,Low,Resolved,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-05-01,2024-05-15,bob,2024-05-01 03:23:41
+448,TCK-0D1B4XG,Medium,Resolved,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-01-01,2024-01-03,diana,2024-01-01 06:14:28
+449,TCK-MPW5D3G,High,Closed,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-26,2024-09-08,edward,2024-08-26 03:47:52
+450,TCK-O8JN42X,High,Open,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-10-16,,george,2024-10-16 20:07:50
+451,TCK-2EZC7FO,Low,Open,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-04-05,,bob,2024-04-05 06:28:03
+452,TCK-V2YGNMB,Low,Open,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-05-05,,fatima,2024-05-05 01:10:02
+453,TCK-Y49E7EO,Medium,In Progress,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-04-27,,alice,2024-04-27 21:58:04
+454,TCK-BJLZY1U,High,Open,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-17,,george,2024-02-17 17:47:23
+455,TCK-U9YMSZD,High,Closed,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-03-29,2024-04-07,irene,2024-03-29 00:58:37
+456,TCK-XIMYN4U,Critical,Open,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-24,,edward,2024-08-24 06:47:50
+457,TCK-9BXF445,Medium,Resolved,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-09-28,2024-10-11,edward,2024-09-28 07:14:43
+458,TCK-CRI8BIX,Medium,Open,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-07-07,,diana,2024-07-07 02:31:48
+459,TCK-OIQ2Q4Q,Low,Closed,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-07-10,2024-07-13,charlie,2024-07-10 14:02:59
+460,TCK-ERXDOUA,Medium,Closed,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-03-09,2024-03-12,irene,2024-03-09 10:20:00
+461,TCK-DVWKSHY,High,In Progress,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-10-04,,edward,2024-10-04 07:29:46
+462,TCK-8NBIQUW,Medium,Closed,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-14,2024-12-25,henry,2024-12-14 08:29:04
+463,TCK-RXZE1HM,Medium,Open,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-09-03,,irene,2024-09-03 10:35:55
+464,TCK-38KSZBF,Medium,Resolved,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-03-16,2024-03-24,edward,2024-03-16 19:05:33
+465,TCK-FZZDVG7,Medium,Open,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-06-02,,irene,2024-06-02 02:32:52
+466,TCK-OQ2ZDO7,Low,Closed,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-05-23,2024-06-01,bob,2024-05-23 16:33:13
+467,TCK-4V1QX8E,Low,Open,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-26,,irene,2024-03-26 02:05:30
+468,TCK-RTB74RS,High,Resolved,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-07-03,2024-07-06,diana,2024-07-03 13:25:19
+469,TCK-7GU0ENV,Critical,Resolved,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-11,2024-10-16,fatima,2024-10-11 18:52:44
+470,TCK-5SN961J,Medium,In Progress,Access,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-08-07,,fatima,2024-08-07 00:24:07
+471,TCK-88QEOZ0,High,Open,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-09,,fatima,2024-03-09 06:15:21
+472,TCK-KZ4Z7WH,High,Open,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-02-16,,bob,2024-02-16 11:53:50
+473,TCK-WKMY9X8,Critical,In Progress,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-03,,george,2024-04-03 14:57:32
+474,TCK-SYLEMRU,Medium,Resolved,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-08-25,2024-09-03,fatima,2024-08-25 14:14:22
+475,TCK-YP04K43,High,Open,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-07-22,,alice,2024-07-22 05:43:02
+476,TCK-SAFYH1F,Medium,In Progress,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-08-05,,bob,2024-08-05 04:01:55
+477,TCK-KJ4YK1B,Low,Open,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-06,,george,2024-12-06 04:42:06
+478,TCK-3D5050U,Critical,Resolved,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-02-08,2024-02-22,alice,2024-02-08 19:31:53
+479,TCK-I22KX7N,Critical,Open,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-04-09,,alice,2024-04-09 15:14:02
+480,TCK-89LTAJW,High,In Progress,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-15,,alice,2024-10-15 17:24:45
+481,TCK-2536ZX1,Low,Open,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-09-10,,henry,2024-09-10 02:30:12
+482,TCK-TV18KGY,High,In Progress,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-08-09,,diana,2024-08-09 14:09:46
+483,TCK-GGSNPUE,Medium,Resolved,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-22,2024-12-31,diana,2024-12-22 07:31:03
+484,TCK-VJLZFFL,Critical,In Progress,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-01-23,,bob,2024-01-23 04:43:50
+485,TCK-B7WXRUM,Low,Open,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-06,,alice,2024-09-06 07:29:18
+486,TCK-2LHGCSO,Medium,Resolved,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-01-10,2024-01-17,irene,2024-01-10 11:16:40
+487,TCK-TDHHLMH,Low,Resolved,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-09-02,2024-09-06,george,2024-09-02 15:44:09
+488,TCK-1T939AY,Low,Open,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-11-20,,diana,2024-11-20 17:17:10
+489,TCK-Q6WW8YL,High,Resolved,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-04-09,2024-04-18,fatima,2024-04-09 05:46:51
+490,TCK-68NTK63,Low,Closed,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-10-16,2024-10-29,bob,2024-10-16 21:58:49
+491,TCK-N2QB6GS,Critical,Open,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-28,,george,2024-06-28 20:56:18
+492,TCK-8G8TACY,Low,Resolved,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-10,2024-08-22,bob,2024-08-10 11:17:53
+493,TCK-15PDTZ9,Medium,Resolved,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-09-06,2024-09-18,henry,2024-09-06 21:23:23
+494,TCK-1X70FQL,Low,In Progress,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-05-26,,henry,2024-05-26 07:23:24
+495,TCK-DB2UUIJ,Critical,Open,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-04-05,,alice,2024-04-05 18:17:40
+496,TCK-NWPAYTX,High,Open,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-09-13,,henry,2024-09-13 16:42:36
+497,TCK-W1VZC7D,Medium,Closed,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-11-20,2024-11-24,bob,2024-11-20 10:01:42
+498,TCK-2KD1POX,Medium,Closed,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-01-04,2024-01-16,fatima,2024-01-04 07:20:37
+499,TCK-RTEO2T8,High,Resolved,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-01-16,2024-01-21,alice,2024-01-16 00:16:15
+500,TCK-FY620N8,Medium,In Progress,Hardware,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-10-06,,edward,2024-10-06 05:11:42
+501,TCK-TTEAVT8,High,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-01,2024-12-08,george,2024-12-01 16:13:42
+502,TCK-K06MOXS,Medium,Resolved,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-03,2024-09-14,alice,2024-09-03 02:19:44
+503,TCK-FH4GG24,Low,In Progress,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-09-14,,bob,2024-09-14 14:32:08
+504,TCK-479QTKC,Medium,Open,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-06-08,,george,2024-06-08 22:01:18
+505,TCK-D0RLEXD,Critical,Resolved,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-12-05,2024-12-16,fatima,2024-12-05 08:59:13
+506,TCK-W6LQWLV,Medium,In Progress,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-31,,charlie,2024-05-31 19:08:45
+507,TCK-UNLPAIH,Critical,Resolved,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-26,2024-07-02,bob,2024-06-26 11:58:28
+508,TCK-0P4E05Q,Low,In Progress,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-06-11,,diana,2024-06-11 20:43:29
+509,TCK-MKTGV44,High,Open,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-02-02,,charlie,2024-02-02 17:52:30
+510,TCK-FTJ5CCA,Medium,Open,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-27,,george,2024-06-27 16:45:19
+511,TCK-SBUOV6T,Low,In Progress,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-04-10,,henry,2024-04-10 16:50:46
+512,TCK-T9Q1NI1,Low,Closed,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-09-24,2024-10-02,bob,2024-09-24 20:58:34
+513,TCK-0KQSOSX,Medium,Open,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-11-18,,george,2024-11-18 01:25:22
+514,TCK-43WFSQG,Low,Closed,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-05,2024-03-14,henry,2024-03-05 03:19:01
+515,TCK-8X80RMH,Low,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-06-16,2024-06-24,fatima,2024-06-16 10:28:57
+516,TCK-RCNBH6N,Medium,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-11-25,2024-11-27,fatima,2024-11-25 23:31:51
+517,TCK-QQB9LZS,Medium,In Progress,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-12,,alice,2024-02-12 16:36:49
+518,TCK-34JTGXN,Medium,Resolved,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-13,2024-02-17,diana,2024-02-13 12:37:33
+519,TCK-X4SN6SM,Medium,Resolved,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-10-11,2024-10-15,alice,2024-10-11 10:49:47
+520,TCK-5RRVSFF,Medium,Open,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-01-12,,diana,2024-01-12 14:14:20
+521,TCK-CXHGNZE,Medium,Open,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-04,,bob,2024-04-04 22:19:10
+522,TCK-I3ZRRHF,High,Closed,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-10-28,2024-10-30,edward,2024-10-28 06:22:34
+523,TCK-4ABUFWB,High,Closed,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-09-09,2024-09-15,irene,2024-09-09 15:06:41
+524,TCK-UCJG8VU,Critical,Open,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-08-29,,charlie,2024-08-29 09:04:14
+525,TCK-AZXKDQ9,High,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-02-04,2024-02-05,henry,2024-02-04 06:32:17
+526,TCK-5G3V23G,Critical,Closed,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-02,2024-08-12,charlie,2024-08-02 22:29:27
+527,TCK-XJ0MQVI,Medium,Closed,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-02,2024-12-11,fatima,2024-12-02 15:43:53
+528,TCK-NDH4SPF,High,Closed,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-03-30,2024-04-03,diana,2024-03-30 16:40:08
+529,TCK-DRWB2SE,Low,Resolved,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-09-20,2024-09-30,henry,2024-09-20 14:00:18
+530,TCK-REV361X,Critical,In Progress,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-04-02,,fatima,2024-04-02 23:59:46
+531,TCK-SNBTI22,High,In Progress,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-03-30,,henry,2024-03-30 06:40:44
+532,TCK-NV01ZDE,Medium,In Progress,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-24,,alice,2024-04-24 20:42:09
+533,TCK-RI4K5OG,Medium,Resolved,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-04-14,2024-04-18,fatima,2024-04-14 03:28:41
+534,TCK-Z2UEAXY,Critical,Resolved,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-07-14,2024-07-15,alice,2024-07-14 14:19:43
+535,TCK-LNFXJ4P,Low,Open,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-11-09,,alice,2024-11-09 01:35:23
+536,TCK-NJY1O2R,Low,Closed,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-04-23,2024-04-25,henry,2024-04-23 08:43:37
+537,TCK-NTJLMZ0,High,Resolved,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-03-15,2024-03-27,george,2024-03-15 05:45:00
+538,TCK-4X0QZFH,High,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-04,2024-08-15,charlie,2024-08-04 09:58:04
+539,TCK-OMTZZF8,Low,In Progress,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-10-03,,fatima,2024-10-03 22:52:04
+540,TCK-ADF7PCH,Medium,Resolved,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-09-05,2024-09-06,irene,2024-09-05 19:34:42
+541,TCK-CBN9WSZ,Medium,Open,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-06-12,,george,2024-06-12 10:37:38
+542,TCK-V83XPHX,Low,Open,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-12-22,,charlie,2024-12-22 02:25:48
+543,TCK-2KBVSIG,High,Open,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-07-10,,fatima,2024-07-10 07:54:36
+544,TCK-BIAF92M,Medium,Open,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-14,,diana,2024-08-14 17:58:02
+545,TCK-OVS0CDK,High,In Progress,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-25,,charlie,2024-06-25 14:58:27
+546,TCK-36M8JVH,Low,Resolved,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-04-08,2024-04-12,irene,2024-04-08 20:07:39
+547,TCK-7UJODCK,Medium,Open,Hardware,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-02-05,,bob,2024-02-05 04:24:49
+548,TCK-82853UY,Medium,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-05,2024-04-07,alice,2024-04-05 13:25:30
+549,TCK-8U118QQ,High,In Progress,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-05-31,,bob,2024-05-31 02:47:11
+550,TCK-VAECW9Y,High,Closed,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-05-30,2024-05-31,george,2024-05-30 03:49:51
+551,TCK-IL8SA3I,Medium,Closed,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-07-08,2024-07-22,alice,2024-07-08 18:21:52
+552,TCK-DY3C7RM,Medium,Open,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-11,,fatima,2024-08-11 11:52:11
+553,TCK-6J8Y6RH,Medium,In Progress,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-02-06,,george,2024-02-06 14:55:52
+554,TCK-05HHIWF,Critical,Open,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-09-24,,irene,2024-09-24 16:25:05
+555,TCK-D7YXW1T,Low,Resolved,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-07-01,2024-07-07,henry,2024-07-01 06:00:05
+556,TCK-BRWR965,Critical,Resolved,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-01-13,2024-01-15,fatima,2024-01-13 09:12:10
+557,TCK-R96KHUB,Low,Open,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-05,,charlie,2024-10-05 07:33:00
+558,TCK-2RTSOYG,Critical,Resolved,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-04,2024-08-13,henry,2024-08-04 18:25:30
+559,TCK-9ZQYAHU,Medium,Open,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-12-20,,george,2024-12-20 01:37:30
+560,TCK-LWJTIQW,Critical,Open,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-12-26,,charlie,2024-12-26 16:49:37
+561,TCK-NRHZN4K,Low,Resolved,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-10-12,2024-10-16,irene,2024-10-12 00:58:21
+562,TCK-GEUIDJI,Medium,In Progress,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-09-29,,bob,2024-09-29 02:39:53
+563,TCK-PNF8F3G,High,Resolved,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-03-02,2024-03-07,charlie,2024-03-02 23:15:37
+564,TCK-R94SZ2K,High,In Progress,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-03-24,,bob,2024-03-24 16:49:02
+565,TCK-UUOYC3R,High,Closed,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-08-04,2024-08-15,alice,2024-08-04 13:52:38
+566,TCK-WQMMU7J,High,Open,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-12-07,,diana,2024-12-07 12:30:43
+567,TCK-AE58HUX,Low,In Progress,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-07-05,,edward,2024-07-05 14:32:22
+568,TCK-G2MYR06,Medium,Resolved,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-01-19,2024-01-27,fatima,2024-01-19 07:04:40
+569,TCK-NKWFG3M,Low,In Progress,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-06-25,,edward,2024-06-25 14:26:32
+570,TCK-WU4CFIL,Medium,Closed,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-04-09,2024-04-13,alice,2024-04-09 01:22:31
+571,TCK-KJXJQ5N,Medium,Resolved,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-08-20,2024-08-29,charlie,2024-08-20 00:23:27
+572,TCK-V8OGA0X,High,Resolved,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-03-16,2024-03-19,alice,2024-03-16 09:07:27
+573,TCK-7ZCGDC5,High,Resolved,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-09-21,2024-10-03,edward,2024-09-21 04:10:31
+574,TCK-TAO1CJF,Low,Closed,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-10,2024-10-20,edward,2024-10-10 04:58:08
+575,TCK-X5LIKWE,Low,Closed,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-07-24,2024-08-03,fatima,2024-07-24 11:54:35
+576,TCK-4BX4LR9,High,Resolved,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-10,2024-08-18,henry,2024-08-10 16:54:09
+577,TCK-TJQ8ZGV,High,Resolved,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-02-21,2024-02-25,alice,2024-02-21 17:38:58
+578,TCK-WWUSXLM,Medium,Open,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-12-04,,diana,2024-12-04 16:47:50
+579,TCK-T2PNJKA,Low,Open,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-05-23,,alice,2024-05-23 02:29:03
+580,TCK-34MQA78,High,Resolved,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-03-09,2024-03-22,irene,2024-03-09 03:00:19
+581,TCK-RAPKIAN,Medium,Open,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-04-08,,george,2024-04-08 19:58:03
+582,TCK-OUOF0ON,Low,In Progress,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-01-25,,george,2024-01-25 23:55:17
+583,TCK-JPI163Y,Critical,Open,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-02-22,,edward,2024-02-22 08:49:17
+584,TCK-K03O4GK,Critical,In Progress,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-05-30,,george,2024-05-30 15:56:13
+585,TCK-WWJWGAB,Medium,Resolved,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-05-23,2024-05-31,bob,2024-05-23 05:06:23
+586,TCK-TGDJZ0I,Low,Closed,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-02-26,2024-03-10,diana,2024-02-26 17:08:27
+587,TCK-FRML29Q,High,Open,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-02-08,,george,2024-02-08 10:09:47
+588,TCK-2L48C1C,Medium,Resolved,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-04-18,2024-04-25,charlie,2024-04-18 05:52:30
+589,TCK-QG433E1,Medium,Closed,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-06-29,2024-07-03,bob,2024-06-29 06:12:39
+590,TCK-I1P0BQ1,Medium,Open,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-11,,bob,2024-02-11 00:39:27
+591,TCK-S9RYLLW,Medium,Resolved,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-07-04,2024-07-06,alice,2024-07-04 22:05:59
+592,TCK-B7SJWH5,Medium,In Progress,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-10,,edward,2024-08-10 03:39:34
+593,TCK-5HEWLGJ,Medium,In Progress,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-05-01,,fatima,2024-05-01 06:27:10
+594,TCK-E2AB2RV,Medium,Closed,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-05-12,2024-05-14,fatima,2024-05-12 10:42:34
+595,TCK-NDFDW79,Medium,Open,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-06-11,,irene,2024-06-11 04:31:12
+596,TCK-WCXZ2EI,Medium,Resolved,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-08-02,2024-08-13,diana,2024-08-02 19:27:58
+597,TCK-9212PGY,Low,Resolved,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-08,2024-08-15,alice,2024-08-08 14:13:49
+598,TCK-ME6RPKZ,Critical,Open,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-22,,fatima,2024-08-22 06:07:59
+599,TCK-GGM0J36,Low,Resolved,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-26,2024-12-02,edward,2024-11-26 02:49:29
+600,TCK-TCFKJNA,Low,Closed,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-05-25,2024-06-01,fatima,2024-05-25 00:24:29
+601,TCK-WNGA41I,High,Open,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-08-26,,charlie,2024-08-26 09:56:55
+602,TCK-ZXTNSRT,Medium,Closed,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-03-16,2024-03-23,bob,2024-03-16 05:35:19
+603,TCK-WLXDSC4,Medium,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-01-09,2024-01-17,fatima,2024-01-09 16:02:37
+604,TCK-E5HRDU4,High,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-03-14,2024-03-28,alice,2024-03-14 13:02:15
+605,TCK-XSZJNVC,Medium,Resolved,Access,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-09-09,2024-09-21,george,2024-09-09 06:28:42
+606,TCK-7HR6C2C,Critical,In Progress,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-17,,george,2024-08-17 07:53:19
+607,TCK-U7ONZ3J,High,Closed,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-01-07,2024-01-08,george,2024-01-07 01:15:14
+608,TCK-BCK88D0,Low,Closed,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-06-22,2024-07-03,alice,2024-06-22 19:22:49
+609,TCK-TGSIWG0,High,Resolved,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-20,2024-05-31,diana,2024-05-20 07:52:13
+610,TCK-ODWMQX5,Low,Resolved,Hardware,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-06-16,2024-06-27,george,2024-06-16 16:05:41
+611,TCK-GGOMF9P,Medium,Resolved,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-06-18,2024-06-20,irene,2024-06-18 01:44:19
+612,TCK-ML9LN1P,Low,In Progress,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-10-09,,edward,2024-10-09 23:06:43
+613,TCK-0VUH17J,Medium,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-01,2024-05-02,bob,2024-05-01 19:02:14
+614,TCK-8QO09VS,Critical,Resolved,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-07-12,2024-07-19,george,2024-07-12 23:20:18
+615,TCK-9KKH4A3,Medium,Resolved,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-01-05,2024-01-17,alice,2024-01-05 03:44:33
+616,TCK-YJTU7FB,Critical,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-01-29,2024-02-04,george,2024-01-29 14:13:19
+617,TCK-MENUI3D,Medium,In Progress,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-06-13,,fatima,2024-06-13 11:13:32
+618,TCK-O7002G3,Low,Open,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-12-04,,george,2024-12-04 16:09:54
+619,TCK-YU6VK0U,High,Open,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-15,,charlie,2024-05-15 01:54:30
+620,TCK-CC1M3O5,Medium,In Progress,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-12-30,,charlie,2024-12-30 21:46:47
+621,TCK-5IXVA1N,Medium,Resolved,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-11-16,2024-11-29,george,2024-11-16 00:10:11
+622,TCK-KBTFSHB,Low,Resolved,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-07,2024-12-21,bob,2024-12-07 01:46:18
+623,TCK-0OQVSHK,Medium,Resolved,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-24,2024-05-26,alice,2024-05-24 13:44:25
+624,TCK-OECUBOD,High,In Progress,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-11-22,,irene,2024-11-22 07:20:42
+625,TCK-S1EEURX,Medium,Resolved,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-04,2024-08-08,irene,2024-08-04 09:05:28
+626,TCK-HW0IC1L,High,In Progress,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-10-27,,george,2024-10-27 13:38:25
+627,TCK-7DYPMLV,Medium,In Progress,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-05-11,,george,2024-05-11 08:41:05
+628,TCK-AK9W9PF,Low,Resolved,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-10-18,2024-10-22,charlie,2024-10-18 07:16:52
+629,TCK-B3HN14E,Medium,Closed,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-10,2024-03-14,bob,2024-03-10 03:19:38
+630,TCK-B8753AY,Low,In Progress,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-09-08,,george,2024-09-08 00:35:02
+631,TCK-EQAHTHS,Critical,Open,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-10-01,,irene,2024-10-01 15:21:10
+632,TCK-JR0FZAU,Medium,Open,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-12-29,,alice,2024-12-29 01:01:02
+633,TCK-XBGK2WB,Low,Open,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-06-30,,diana,2024-06-30 00:31:48
+634,TCK-XANJ4X5,Critical,Resolved,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-06-15,2024-06-24,fatima,2024-06-15 12:16:26
+635,TCK-A5XIN9D,Low,In Progress,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-03-31,,george,2024-03-31 06:59:45
+636,TCK-L5TGSQ7,High,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-07-20,2024-07-28,george,2024-07-20 02:18:00
+637,TCK-AITMOFM,Medium,In Progress,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-12-11,,bob,2024-12-11 08:01:50
+638,TCK-MWI9S3W,Low,Open,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-01-19,,diana,2024-01-19 03:31:01
+639,TCK-563BTKF,Medium,In Progress,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-02-08,,edward,2024-02-08 06:06:44
+640,TCK-6XDN8WW,Critical,Open,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-05-05,,alice,2024-05-05 06:04:55
+641,TCK-IIF86LT,Medium,In Progress,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-06-21,,alice,2024-06-21 01:36:08
+642,TCK-HET25LZ,Medium,Open,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-05-20,,charlie,2024-05-20 15:08:04
+643,TCK-SE99F77,Low,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-29,2024-09-01,charlie,2024-08-29 18:39:34
+644,TCK-LU8EL50,Medium,Open,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-07,,henry,2024-08-07 03:55:14
+645,TCK-15OOP76,High,Closed,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-05,2024-05-12,irene,2024-05-05 11:54:39
+646,TCK-7J2DG1W,Medium,In Progress,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-02-27,,alice,2024-02-27 11:44:54
+647,TCK-JUIIYMY,Medium,Resolved,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-27,2024-05-30,bob,2024-05-27 20:27:49
+648,TCK-RSVZN4R,Medium,Resolved,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-11-12,2024-11-17,bob,2024-11-12 22:49:14
+649,TCK-EGB1AJO,Medium,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-12-26,2024-12-31,diana,2024-12-26 06:54:04
+650,TCK-091C795,Low,Resolved,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-01-01,2024-01-05,bob,2024-01-01 22:44:37
+651,TCK-RLQIOB0,Medium,Resolved,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-12-13,2024-12-27,george,2024-12-13 07:32:27
+652,TCK-NLW0VS5,Medium,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-07-08,2024-07-10,irene,2024-07-08 19:43:22
+653,TCK-2SQ3B9S,High,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-07-09,2024-07-17,george,2024-07-09 14:23:01
+654,TCK-O0USWBK,High,Resolved,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-11-07,2024-11-20,fatima,2024-11-07 15:34:43
+655,TCK-OK3QPWB,High,Open,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-04-26,,alice,2024-04-26 04:23:54
+656,TCK-SF3Q0E2,High,In Progress,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-13,,irene,2024-05-13 08:27:42
+657,TCK-7ZEOQGV,Medium,Resolved,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-27,2024-03-12,edward,2024-02-27 07:47:00
+658,TCK-ZHQJY62,Medium,Resolved,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-02-13,2024-02-27,edward,2024-02-13 03:51:18
+659,TCK-ZEEQNSN,Medium,Resolved,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-06-21,2024-06-30,fatima,2024-06-21 12:58:57
+660,TCK-2S8NN16,Low,Resolved,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-08,2024-06-10,irene,2024-06-08 11:46:24
+661,TCK-UXF5GZP,Low,Closed,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-06-21,2024-06-22,henry,2024-06-21 06:19:16
+662,TCK-L1QWEEH,Low,In Progress,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-11-12,,henry,2024-11-12 00:32:45
+663,TCK-WJQ4TA5,Medium,In Progress,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-10-29,,henry,2024-10-29 14:38:29
+664,TCK-IVROCVI,Medium,In Progress,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-28,,alice,2024-05-28 23:48:40
+665,TCK-TWU3BFX,Medium,In Progress,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-03-20,,alice,2024-03-20 11:30:50
+666,TCK-B4Y4K7B,Critical,Resolved,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-07-31,2024-08-11,henry,2024-07-31 00:26:10
+667,TCK-PGYVYV2,Medium,Open,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-07-21,,edward,2024-07-21 14:10:11
+668,TCK-GQU7DKN,Low,Resolved,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-09-08,2024-09-17,irene,2024-09-08 07:44:47
+669,TCK-NCPTKEZ,Low,In Progress,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-08-16,,bob,2024-08-16 16:42:12
+670,TCK-JSSZWD0,High,Resolved,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-06-12,2024-06-26,irene,2024-06-12 08:00:48
+671,TCK-W9RY79K,Medium,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-08-14,2024-08-15,henry,2024-08-14 02:24:12
+672,TCK-VLS9MEU,Low,In Progress,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-05-26,,irene,2024-05-26 23:57:20
+673,TCK-SWRGVZ9,Critical,Resolved,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-01-20,2024-01-22,diana,2024-01-20 10:08:17
+674,TCK-AAWE429,Medium,In Progress,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-16,,alice,2024-02-16 23:39:49
+675,TCK-OMUWAHK,Low,Open,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-08-20,,alice,2024-08-20 22:42:57
+676,TCK-2LSLAYM,Medium,In Progress,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-10-31,,edward,2024-10-31 13:26:02
+677,TCK-0WBGLMY,Critical,Open,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-01-14,,bob,2024-01-14 01:35:59
+678,TCK-62XRW6T,Medium,In Progress,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-05-22,,henry,2024-05-22 02:27:05
+679,TCK-M2O04K0,Low,Resolved,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-01-01,2024-01-14,edward,2024-01-01 07:57:27
+680,TCK-LTHY25M,Medium,Resolved,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-02-23,2024-03-08,edward,2024-02-23 14:58:03
+681,TCK-8KB9W4U,High,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-15,2024-09-19,bob,2024-09-15 10:58:42
+682,TCK-OV51ZLB,Medium,Open,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-05-23,,george,2024-05-23 21:48:14
+683,TCK-ORIQ8HK,Medium,Resolved,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-01-12,2024-01-15,henry,2024-01-12 18:11:20
+684,TCK-E226PAR,Medium,In Progress,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-25,,alice,2024-11-25 03:42:24
+685,TCK-SG70S1F,Low,In Progress,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-11,,bob,2024-08-11 19:31:18
+686,TCK-537YE0Q,Critical,Closed,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-09-28,2024-10-05,diana,2024-09-28 20:43:26
+687,TCK-ZSA7YVD,Low,Open,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-12-23,,edward,2024-12-23 06:14:33
+688,TCK-QBSXLUL,Critical,Resolved,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-06-04,2024-06-12,bob,2024-06-04 09:10:22
+689,TCK-6LGJLPE,Medium,Resolved,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-01-08,2024-01-16,alice,2024-01-08 03:26:58
+690,TCK-FJAWSHM,Critical,In Progress,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-05-01,,irene,2024-05-01 21:50:25
+691,TCK-LFZKICW,Medium,Open,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-13,,alice,2024-12-13 11:48:33
+692,TCK-MPEQYDB,Medium,Open,Access,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-06-12,,diana,2024-06-12 22:58:09
+693,TCK-PGVV4ZW,Medium,Closed,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-03-30,2024-04-03,bob,2024-03-30 14:08:50
+694,TCK-L3ZYT91,High,In Progress,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-05-15,,diana,2024-05-15 04:50:23
+695,TCK-QE37QQY,Medium,In Progress,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-07-04,,henry,2024-07-04 12:05:22
+696,TCK-ZQII4W6,Critical,In Progress,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-11-11,,henry,2024-11-11 06:23:00
+697,TCK-OZX25QB,Low,Resolved,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-06-26,2024-07-10,irene,2024-06-26 23:07:57
+698,TCK-RMQG1VE,Low,Open,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-01-28,,edward,2024-01-28 11:34:36
+699,TCK-D32LX2T,High,In Progress,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-08-07,,george,2024-08-07 17:33:13
+700,TCK-OOWT9NM,Medium,Resolved,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-12-22,2024-12-29,charlie,2024-12-22 02:27:29
+701,TCK-3V2P2TI,Medium,Closed,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-02-10,2024-02-11,diana,2024-02-10 12:12:02
+702,TCK-XC7URVQ,Critical,In Progress,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-08-15,,irene,2024-08-15 00:38:33
+703,TCK-T3G8CD3,Medium,In Progress,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-07-10,,alice,2024-07-10 22:09:21
+704,TCK-1NRXD35,Low,In Progress,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-05-24,,bob,2024-05-24 21:18:01
+705,TCK-6WAFFTO,Medium,Resolved,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-07-19,2024-07-22,edward,2024-07-19 16:20:39
+706,TCK-UHYLU6K,High,In Progress,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-07-30,,charlie,2024-07-30 13:55:18
+707,TCK-7P9MDA9,Low,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-07,2024-08-14,bob,2024-08-07 18:36:21
+708,TCK-OEKNTBZ,Medium,Resolved,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-08-27,2024-08-28,alice,2024-08-27 23:19:23
+709,TCK-3M55IZO,Low,Resolved,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-02-15,2024-02-22,charlie,2024-02-15 08:27:44
+710,TCK-LNNTXRG,Medium,In Progress,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-02-04,,alice,2024-02-04 18:19:44
+711,TCK-N74F9YE,Medium,Closed,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-09,2024-09-14,alice,2024-09-09 21:23:20
+712,TCK-CAZRP9D,High,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-22,2024-04-04,alice,2024-03-22 00:29:02
+713,TCK-XOQ2VPG,High,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-12,2024-09-25,henry,2024-09-12 08:28:08
+714,TCK-STQMGVU,Low,Open,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-07-15,,charlie,2024-07-15 00:46:20
+715,TCK-4ISOTN9,High,Closed,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-29,2024-11-06,alice,2024-10-29 22:26:26
+716,TCK-UZERYF0,Low,Open,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-01-10,,george,2024-01-10 04:31:00
+717,TCK-992QC6D,Medium,Open,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-11-07,,charlie,2024-11-07 11:14:41
+718,TCK-R08CW2L,High,Open,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-10-12,,henry,2024-10-12 08:36:24
+719,TCK-BM2QSQ0,Critical,Resolved,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-29,2024-09-03,diana,2024-08-29 15:36:04
+720,TCK-P82KB70,High,Open,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-09-07,,diana,2024-09-07 08:52:02
+721,TCK-0UCRGB9,Low,Open,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-30,,edward,2024-12-30 22:33:53
+722,TCK-3WKCS4K,Medium,Open,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-01-05,,fatima,2024-01-05 02:53:25
+723,TCK-EK4AEGV,Medium,Open,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-04-28,,george,2024-04-28 02:10:54
+724,TCK-FQ3JZR2,High,Resolved,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-10-15,2024-10-22,diana,2024-10-15 05:00:29
+725,TCK-5MDF7FR,High,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-03-05,2024-03-17,henry,2024-03-05 13:38:09
+726,TCK-91IPWH0,Medium,In Progress,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-05-25,,fatima,2024-05-25 18:09:29
+727,TCK-MX1EGOK,High,In Progress,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-11,,alice,2024-08-11 10:47:57
+728,TCK-01TNZRF,Low,Resolved,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-08-26,2024-09-07,alice,2024-08-26 07:21:18
+729,TCK-5A7QY8Y,Medium,Open,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-06-25,,irene,2024-06-25 05:31:19
+730,TCK-B7W8P74,Medium,In Progress,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-09-23,,fatima,2024-09-23 13:40:50
+731,TCK-MJDXO10,Medium,Closed,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-12-06,2024-12-19,henry,2024-12-06 07:26:29
+732,TCK-0VHMYGT,Medium,Resolved,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-08,2024-10-17,george,2024-10-08 23:22:33
+733,TCK-Y3ADDQH,Low,In Progress,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-03-03,,fatima,2024-03-03 01:22:48
+734,TCK-KGAD7X4,Medium,Resolved,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-04,2024-08-15,diana,2024-08-04 08:40:03
+735,TCK-8WZE4EX,Critical,In Progress,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-12-07,,george,2024-12-07 21:46:30
+736,TCK-6U86ZJQ,Medium,Resolved,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-11-10,2024-11-22,irene,2024-11-10 16:09:20
+737,TCK-7W7JP61,High,Open,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-09,,george,2024-10-09 11:58:02
+738,TCK-LFC1NLC,Critical,Open,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-25,,alice,2024-06-25 04:53:18
+739,TCK-8JPR7VG,Low,Open,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-04-07,,irene,2024-04-07 10:07:34
+740,TCK-RF1HX6Z,Low,Closed,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-04-14,2024-04-22,diana,2024-04-14 11:33:40
+741,TCK-DCUJQ6F,Low,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-08,2024-04-11,charlie,2024-04-08 23:25:58
+742,TCK-X7XJZ6U,Medium,Open,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-11-06,,diana,2024-11-06 01:26:31
+743,TCK-S7RP422,Medium,Open,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-01-06,,diana,2024-01-06 18:57:51
+744,TCK-TA83RU7,High,Resolved,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-07-15,2024-07-19,bob,2024-07-15 15:06:20
+745,TCK-MYOW8DT,High,Open,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-12-16,,alice,2024-12-16 23:35:40
+746,TCK-8CQ1XGB,Low,Open,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-12,,alice,2024-05-12 10:30:08
+747,TCK-NGZ6WMD,Medium,Closed,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-23,2024-12-28,henry,2024-12-23 00:51:45
+748,TCK-W0FGZVR,Low,In Progress,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-15,,bob,2024-09-15 08:20:16
+749,TCK-CTLT4Q9,Medium,Resolved,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-01-23,2024-01-27,edward,2024-01-23 12:03:40
+750,TCK-BC2BE3Y,High,Closed,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-02-22,2024-02-23,diana,2024-02-22 12:28:42
+751,TCK-QY5FU7B,Medium,In Progress,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-06-13,,henry,2024-06-13 08:49:12
+752,TCK-FXQ7BZE,Medium,Open,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-07-20,,bob,2024-07-20 07:29:36
+753,TCK-GBL2QGV,High,Open,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-23,,irene,2024-03-23 19:38:08
+754,TCK-3DR2H2P,Low,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-05-24,2024-06-03,george,2024-05-24 01:58:07
+755,TCK-39YL9UE,Medium,Closed,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-03-25,2024-04-06,george,2024-03-25 09:02:30
+756,TCK-421VMEF,High,Resolved,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-03-18,2024-03-27,alice,2024-03-18 08:05:56
+757,TCK-OZTP7BD,Medium,Open,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-12-31,,bob,2024-12-31 22:08:20
+758,TCK-4W1ARAG,Low,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-01-01,2024-01-02,diana,2024-01-01 13:53:22
+759,TCK-DX5O31Y,High,Closed,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-02-20,2024-03-03,diana,2024-02-20 18:59:10
+760,TCK-HXSO7VB,Low,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-06-21,2024-06-27,charlie,2024-06-21 11:42:37
+761,TCK-GR8W2MA,High,Closed,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-07-23,2024-07-24,george,2024-07-23 06:40:57
+762,TCK-IETDN1T,Low,Resolved,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-09-16,2024-09-17,henry,2024-09-16 16:06:21
+763,TCK-H1XJG2Y,Medium,Resolved,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-10-14,2024-10-24,bob,2024-10-14 22:55:46
+764,TCK-8RGYBXK,High,Resolved,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-02-03,2024-02-11,diana,2024-02-03 00:13:12
+765,TCK-PM21B07,High,In Progress,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-13,,charlie,2024-12-13 02:21:09
+766,TCK-G2RE6ZV,Low,Open,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-04,,bob,2024-04-04 17:54:00
+767,TCK-LHYL2LD,Medium,Resolved,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-12,2024-03-21,fatima,2024-03-12 02:32:53
+768,TCK-05NHQR6,Medium,In Progress,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-02-08,,diana,2024-02-08 07:00:26
+769,TCK-F7QNEZW,High,Closed,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-06-02,2024-06-16,fatima,2024-06-02 01:53:49
+770,TCK-9HEYCE4,Low,Closed,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-06,2024-09-15,bob,2024-09-06 23:05:47
+771,TCK-QGM5V2W,Medium,Resolved,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-06-10,2024-06-13,diana,2024-06-10 05:09:10
+772,TCK-WG84D4R,Low,Open,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-04-27,,fatima,2024-04-27 07:26:07
+773,TCK-9V4K00I,High,In Progress,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-09-15,,edward,2024-09-15 04:34:17
+774,TCK-LU6VFUA,Medium,Open,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-11-01,,charlie,2024-11-01 03:20:27
+775,TCK-9BQ1BTR,Medium,Resolved,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-09-24,2024-09-25,henry,2024-09-24 06:19:24
+776,TCK-23QIUA0,Medium,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-02-23,2024-03-03,george,2024-02-23 21:34:37
+777,TCK-8EKXDRK,Medium,Closed,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-08-23,2024-08-25,charlie,2024-08-23 19:58:58
+778,TCK-Z40AQ15,Critical,In Progress,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-09,,fatima,2024-08-09 07:26:27
+779,TCK-O2NQW4C,Medium,Closed,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-09-07,2024-09-21,diana,2024-09-07 08:36:13
+780,TCK-6LBPJ8T,Medium,Closed,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-11-08,2024-11-11,edward,2024-11-08 18:28:29
+781,TCK-22C50B8,Critical,In Progress,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-04-21,,edward,2024-04-21 02:50:45
+782,TCK-Y5DNWNG,Medium,Closed,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-09-11,2024-09-13,george,2024-09-11 15:31:08
+783,TCK-UCZH9IE,Medium,In Progress,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-10-29,,edward,2024-10-29 17:00:20
+784,TCK-R7U8H0I,Critical,In Progress,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-07-25,,charlie,2024-07-25 11:20:24
+785,TCK-MJYJCMR,Low,Resolved,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-16,2024-08-26,edward,2024-08-16 05:58:36
+786,TCK-SEZYTKW,Low,In Progress,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-06,,george,2024-12-06 07:11:31
+787,TCK-2837C6Q,Medium,Resolved,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-03-06,2024-03-08,edward,2024-03-06 08:55:02
+788,TCK-C6K8DJZ,Critical,Resolved,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-03-15,2024-03-26,edward,2024-03-15 15:26:16
+789,TCK-R5SWK8T,Low,Resolved,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-04-12,2024-04-26,irene,2024-04-12 06:25:25
+790,TCK-EMPXKC5,Medium,In Progress,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-07-10,,charlie,2024-07-10 22:03:30
+791,TCK-I8XOMXL,High,Resolved,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-08,2024-09-12,fatima,2024-09-08 09:03:52
+792,TCK-VZ4QKE2,Medium,Resolved,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-08-13,2024-08-20,alice,2024-08-13 11:02:08
+793,TCK-GJR81BM,Medium,Resolved,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-10-20,2024-10-22,edward,2024-10-20 10:23:21
+794,TCK-QF7ZK94,Medium,In Progress,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-11-01,,henry,2024-11-01 20:59:12
+795,TCK-YXFIBLE,Medium,Open,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-04-07,,edward,2024-04-07 16:19:15
+796,TCK-JGUBLMN,Medium,Resolved,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-03,2024-12-13,irene,2024-12-03 23:08:29
+797,TCK-TFK7ORF,Low,Open,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-10-12,,fatima,2024-10-12 07:19:58
+798,TCK-QLA09LZ,Medium,Resolved,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-30,2024-12-04,henry,2024-11-30 09:53:53
+799,TCK-RK79UFU,Medium,Resolved,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-12-12,2024-12-22,henry,2024-12-12 17:31:08
+800,TCK-6PY06FT,Low,Resolved,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-11-03,2024-11-13,charlie,2024-11-03 02:54:47
+801,TCK-LO4QDBX,Medium,Resolved,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-09-05,2024-09-06,george,2024-09-05 13:05:31
+802,TCK-VH7KATQ,Medium,Closed,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-06-14,2024-06-24,george,2024-06-14 14:29:58
+803,TCK-YDSHLV7,Medium,Resolved,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-11-30,2024-12-02,fatima,2024-11-30 13:45:08
+804,TCK-6MF4NNK,Medium,Closed,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-01-30,2024-02-06,george,2024-01-30 06:06:29
+805,TCK-M95D0P9,Low,Resolved,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-09-03,2024-09-14,bob,2024-09-03 17:08:17
+806,TCK-2K38P6F,Medium,Open,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-04-15,,irene,2024-04-15 16:04:12
+807,TCK-VDHR59C,Low,Open,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-02-20,,alice,2024-02-20 15:23:23
+808,TCK-81DO6OU,Critical,Resolved,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-03-21,2024-03-31,alice,2024-03-21 18:23:49
+809,TCK-Z1EGNTB,Critical,Open,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-12,,charlie,2024-05-12 22:11:14
+810,TCK-34KUQAA,Medium,In Progress,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-11,,charlie,2024-10-11 15:46:50
+811,TCK-J84RX6P,High,In Progress,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-17,,alice,2024-05-17 05:40:31
+812,TCK-RYIEJ9C,High,Resolved,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-07-02,2024-07-12,george,2024-07-02 17:32:56
+813,TCK-0UU5WRY,High,Resolved,Access,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-25,2024-12-04,diana,2024-11-25 00:43:16
+814,TCK-ESU4FCL,High,Resolved,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-09-29,2024-10-05,bob,2024-09-29 13:53:13
+815,TCK-5EFJP6M,Critical,Resolved,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-05,2024-12-10,edward,2024-12-05 15:33:39
+816,TCK-KT7S1GD,Low,Resolved,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-03-09,2024-03-13,fatima,2024-03-09 03:01:49
+817,TCK-1T53YKY,High,In Progress,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-02-03,,irene,2024-02-03 10:55:51
+818,TCK-YDU3ASN,Medium,Closed,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-09-18,2024-09-29,diana,2024-09-18 21:40:11
+819,TCK-RM6DFHG,Low,Open,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-02-22,,bob,2024-02-22 19:33:31
+820,TCK-6W3STT1,Low,Closed,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-07-23,2024-08-04,edward,2024-07-23 05:33:47
+821,TCK-EQC37RL,Critical,Resolved,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-05,2024-05-11,charlie,2024-05-05 20:07:43
+822,TCK-N36V1MZ,Low,In Progress,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-22,,bob,2024-08-22 06:23:49
+823,TCK-B3I4FIE,Medium,Open,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-02-12,,alice,2024-02-12 09:22:03
+824,TCK-ECY2C11,Medium,In Progress,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-08-27,,bob,2024-08-27 13:51:06
+825,TCK-BD2SCEJ,Medium,Open,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-04-20,,fatima,2024-04-20 16:52:51
+826,TCK-CY127H6,Low,Open,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-09-05,,henry,2024-09-05 11:08:08
+827,TCK-GMD478M,High,Resolved,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-05-30,2024-06-03,charlie,2024-05-30 16:30:54
+828,TCK-FS0IUDU,Medium,Resolved,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-07-01,2024-07-06,irene,2024-07-01 10:18:42
+829,TCK-AHGK6T9,Medium,Resolved,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-12-01,2024-12-08,irene,2024-12-01 13:39:31
+830,TCK-DHSZNVP,Low,Closed,Access,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-04-04,2024-04-07,bob,2024-04-04 20:28:01
+831,TCK-8GMNHIE,Low,Resolved,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-01-08,2024-01-19,henry,2024-01-08 22:03:52
+832,TCK-9EDE1ZU,High,Resolved,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-25,2024-12-31,edward,2024-12-25 17:30:25
+833,TCK-BLEKVL9,Low,Open,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-07-02,,diana,2024-07-02 02:37:09
+834,TCK-PTK4GC4,Critical,Resolved,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-10-07,2024-10-12,edward,2024-10-07 12:07:57
+835,TCK-RYG9RDP,Critical,In Progress,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-07-13,,diana,2024-07-13 04:58:31
+836,TCK-XDFOVD7,Critical,Closed,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-12-17,2024-12-25,henry,2024-12-17 17:05:06
+837,TCK-9C9MV9E,High,Resolved,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-07-13,2024-07-19,diana,2024-07-13 07:07:32
+838,TCK-40KZUJ2,Medium,Resolved,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-06-03,2024-06-16,fatima,2024-06-03 05:38:00
+839,TCK-XORVORK,Critical,Open,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-04-02,,bob,2024-04-02 06:54:14
+840,TCK-1DJRWED,Critical,Closed,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-06-08,2024-06-10,edward,2024-06-08 00:09:07
+841,TCK-BCY8NYF,Low,Resolved,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-03-01,2024-03-02,fatima,2024-03-01 00:28:02
+842,TCK-WDC112H,Low,Open,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-01,,edward,2024-05-01 18:13:47
+843,TCK-XRJM4T8,Low,In Progress,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-02-20,,bob,2024-02-20 13:37:34
+844,TCK-BP6NLNQ,Low,Resolved,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-03,2024-10-11,george,2024-10-03 17:53:35
+845,TCK-BU4KZRE,Medium,Open,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-01-05,,diana,2024-01-05 14:43:45
+846,TCK-ZRDYXYU,High,Closed,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-04-01,2024-04-11,henry,2024-04-01 15:08:22
+847,TCK-R4SOR8W,Medium,In Progress,Software,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-06-18,,george,2024-06-18 14:22:07
+848,TCK-M9LBB4M,Medium,Open,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-11-12,,george,2024-11-12 13:35:08
+849,TCK-0A6MDMM,High,Resolved,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-01-22,2024-02-01,irene,2024-01-22 13:58:56
+850,TCK-MXIXV6C,Medium,In Progress,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-11-21,,alice,2024-11-21 17:49:26
+851,TCK-KMALQ5U,Critical,Resolved,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-01-01,2024-01-03,fatima,2024-01-01 11:12:25
+852,TCK-6JZV9NO,High,Open,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-05-12,,fatima,2024-05-12 23:20:23
+853,TCK-U3DYMS1,Medium,Open,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-20,,fatima,2024-08-20 21:25:10
+854,TCK-MWNPR42,Medium,Resolved,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-01-12,2024-01-14,fatima,2024-01-12 02:35:36
+855,TCK-4TKB9OI,Medium,Resolved,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-11,2024-12-20,george,2024-12-11 14:53:00
+856,TCK-0D4DMC2,Medium,Resolved,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-15,2024-02-19,fatima,2024-02-15 01:24:49
+857,TCK-RH2XK2P,Critical,Resolved,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-02-03,2024-02-12,alice,2024-02-03 04:31:55
+858,TCK-THOWQ1G,High,Resolved,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-18,2024-03-23,charlie,2024-03-18 14:00:39
+859,TCK-AZ5UH80,Low,Open,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-05,,bob,2024-08-05 20:35:35
+860,TCK-Q7TW1PU,Medium,In Progress,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-27,,fatima,2024-10-27 05:54:41
+861,TCK-WSNFFYK,High,Closed,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-03-13,2024-03-16,henry,2024-03-13 07:04:17
+862,TCK-PL3CHO3,Low,Resolved,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-10-08,2024-10-14,charlie,2024-10-08 15:53:06
+863,TCK-XJVOEGI,High,Resolved,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-09-05,2024-09-07,henry,2024-09-05 09:17:37
+864,TCK-3QUPXBF,Medium,In Progress,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-02-16,,henry,2024-02-16 12:41:28
+865,TCK-EJ2XG48,High,In Progress,Software,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-04-30,,edward,2024-04-30 18:33:15
+866,TCK-RA4DV56,Medium,Resolved,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-01,2024-08-05,henry,2024-08-01 17:47:24
+867,TCK-ONXD70F,Medium,Closed,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-26,2024-09-01,fatima,2024-08-26 23:07:08
+868,TCK-E07S387,High,Resolved,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-02-25,2024-03-01,edward,2024-02-25 13:24:18
+869,TCK-J5IE3LV,Low,Resolved,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-12-15,2024-12-18,irene,2024-12-15 02:06:03
+870,TCK-O0IPFG8,Medium,Resolved,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-04-16,2024-04-24,george,2024-04-16 23:41:55
+871,TCK-PJVRN8L,High,Open,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-11-14,,henry,2024-11-14 14:01:46
+872,TCK-PY857NZ,High,In Progress,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-17,,alice,2024-02-17 15:26:19
+873,TCK-3A8V4X7,High,Open,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-03-01,,bob,2024-03-01 08:59:07
+874,TCK-Y2ITL8N,Critical,Open,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-12-02,,henry,2024-12-02 08:49:25
+875,TCK-3E54N6O,Medium,Closed,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-01-26,2024-02-09,irene,2024-01-26 17:23:36
+876,TCK-9JD3IH6,Low,In Progress,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-10-18,,diana,2024-10-18 01:15:22
+877,TCK-6W51OB5,Medium,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-13,2024-09-22,irene,2024-09-13 13:09:31
+878,TCK-37QO4Z5,High,Open,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-01-08,,diana,2024-01-08 22:58:20
+879,TCK-33ZSMV3,Critical,In Progress,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-04-22,,irene,2024-04-22 01:01:43
+880,TCK-0QABXW2,High,Open,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-12-20,,george,2024-12-20 23:29:45
+881,TCK-EOWLCFS,Medium,Open,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-09-09,,bob,2024-09-09 05:23:03
+882,TCK-8314Y2L,Low,Resolved,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-06-28,2024-07-10,irene,2024-06-28 09:30:53
+883,TCK-R0JY32H,High,In Progress,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-07-25,,diana,2024-07-25 22:02:35
+884,TCK-OG585I8,Medium,Resolved,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-10-29,2024-11-03,henry,2024-10-29 16:34:59
+885,TCK-7XW69HZ,Low,Open,Security,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-05-06,,george,2024-05-06 05:21:55
+886,TCK-GOPJDN8,Medium,Open,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-02-25,,george,2024-02-25 09:15:30
+887,TCK-EZP7QYE,Low,In Progress,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-01,,henry,2024-08-01 09:00:29
+888,TCK-ZG52KRE,Medium,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-01-14,2024-01-24,alice,2024-01-14 21:55:24
+889,TCK-4V9KYPO,Medium,Resolved,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-01-28,2024-02-10,edward,2024-01-28 21:03:24
+890,TCK-FKJW6NY,Medium,In Progress,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-03-18,,bob,2024-03-18 05:52:38
+891,TCK-QAELYYZ,Medium,In Progress,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-03,,bob,2024-08-03 00:26:57
+892,TCK-Z0JDCLI,High,Resolved,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-12-30,2024-12-31,alice,2024-12-30 04:15:00
+893,TCK-6978V0B,High,Open,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-02,,edward,2024-06-02 03:21:38
+894,TCK-JWKON8U,High,In Progress,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-01-14,,bob,2024-01-14 23:27:42
+895,TCK-UJS75EL,Medium,Resolved,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-07-05,2024-07-14,diana,2024-07-05 13:59:37
+896,TCK-TFEBE54,High,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-07,2024-11-08,charlie,2024-11-07 14:28:42
+897,TCK-07K5W1J,Low,In Progress,Network,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-01-07,,charlie,2024-01-07 21:20:29
+898,TCK-L6L91F4,Medium,Closed,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-01-03,2024-01-14,bob,2024-01-03 02:55:31
+899,TCK-X2BFIBJ,Medium,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-04-20,2024-05-04,fatima,2024-04-20 18:52:45
+900,TCK-ZP97BMZ,High,In Progress,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-08-25,,bob,2024-08-25 06:52:29
+901,TCK-RR45ED5,Low,Resolved,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-12-28,2024-12-31,henry,2024-12-28 15:23:56
+902,TCK-GGSJ6VV,Low,Resolved,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-26,2024-08-31,henry,2024-08-26 06:02:14
+903,TCK-8SUOC1Y,Medium,In Progress,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-30,,edward,2024-09-30 15:32:30
+904,TCK-5AYYOV8,High,In Progress,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-20,,george,2024-10-20 09:12:24
+905,TCK-4FC3XQ8,Medium,In Progress,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-08-14,,diana,2024-08-14 11:00:12
+906,TCK-VA8X8L0,High,Resolved,Hardware,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-01-15,2024-01-26,alice,2024-01-15 18:13:40
+907,TCK-08UHBXL,High,In Progress,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-07-10,,bob,2024-07-10 19:24:47
+908,TCK-BC8NOG8,Low,Resolved,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-04-28,2024-04-30,diana,2024-04-28 23:58:29
+909,TCK-5D4F2K1,Medium,Resolved,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-01-28,2024-01-31,alice,2024-01-28 13:56:12
+910,TCK-XERP3LY,Medium,Open,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-07-20,,henry,2024-07-20 21:20:18
+911,TCK-EX3SR5R,Low,Resolved,Security,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-02-08,2024-02-13,irene,2024-02-08 11:12:47
+912,TCK-UP13WPP,Medium,In Progress,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-09-29,,diana,2024-09-29 14:59:10
+913,TCK-BMQIYFR,Medium,Resolved,Network,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-18,2024-08-20,charlie,2024-08-18 03:14:08
+914,TCK-WSKP6RF,High,Resolved,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-03-26,2024-03-28,bob,2024-03-26 03:58:42
+915,TCK-E64SKBC,Low,Open,Security,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-05-05,,edward,2024-05-05 23:09:45
+916,TCK-BDPDXUJ,Critical,In Progress,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-26,,charlie,2024-10-26 20:50:53
+917,TCK-JCSEXGG,Low,Open,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-01-25,,george,2024-01-25 12:32:20
+918,TCK-OC5KVQY,Low,Open,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-05-24,,fatima,2024-05-24 05:11:45
+919,TCK-WJ85GG0,High,In Progress,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-01-13,,alice,2024-01-13 09:47:41
+920,TCK-V5DTAEG,Medium,In Progress,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-07-30,,henry,2024-07-30 07:37:42
+921,TCK-RY58VRW,Low,Closed,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-01-25,2024-02-06,bob,2024-01-25 14:29:22
+922,TCK-9MYYOKE,Medium,In Progress,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-08,,edward,2024-03-08 11:13:03
+923,TCK-AEA84HX,Low,In Progress,Network,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-03-07,,irene,2024-03-07 00:14:01
+924,TCK-XPW2GKQ,Low,Resolved,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-08-20,2024-08-29,henry,2024-08-20 06:07:52
+925,TCK-RAFFZ8Q,Medium,Open,Security,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-04-18,,bob,2024-04-18 17:54:11
+926,TCK-4VHU4BA,Medium,Closed,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-25,2024-05-28,irene,2024-05-25 00:03:26
+927,TCK-WZ940VT,Low,Resolved,Software,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-04-20,2024-04-25,edward,2024-04-20 03:31:37
+928,TCK-KRRVWY3,Medium,Resolved,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-08-15,2024-08-20,fatima,2024-08-15 02:32:34
+929,TCK-RZTPLC6,High,Open,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-04-20,,charlie,2024-04-20 15:12:47
+930,TCK-PRR7MZA,Critical,In Progress,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-02-03,,charlie,2024-02-03 19:06:47
+931,TCK-KGMIH6M,Medium,In Progress,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-04-20,,henry,2024-04-20 15:10:36
+932,TCK-V4XEKZ8,Low,Resolved,Security,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-09-20,2024-09-30,bob,2024-09-20 23:49:49
+933,TCK-3Y0224W,Low,Open,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-23,,bob,2024-08-23 10:29:53
+934,TCK-K0YEHVD,Medium,In Progress,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-03-23,,edward,2024-03-23 15:41:25
+935,TCK-O9KHBA5,High,Closed,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-11,2024-02-15,fatima,2024-02-11 06:12:45
+936,TCK-MF36BCP,High,In Progress,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-04-10,,bob,2024-04-10 06:25:21
+937,TCK-WEIJMMB,Low,In Progress,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-01-06,,edward,2024-01-06 13:38:26
+938,TCK-5JFYSYZ,High,Open,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-06-28,,george,2024-06-28 06:47:11
+939,TCK-7PQ4DDV,High,Closed,Hardware,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-08,2024-10-20,henry,2024-10-08 04:53:27
+940,TCK-283BDW5,High,Open,Access,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-11-15,,george,2024-11-15 07:12:34
+941,TCK-6FKPS0D,Medium,Resolved,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-08-13,2024-08-19,henry,2024-08-13 17:42:42
+942,TCK-XME4PO1,Low,Resolved,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-11-10,2024-11-14,irene,2024-11-10 06:37:33
+943,TCK-I3MSDN1,High,Open,Software,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-12-30,,edward,2024-12-30 18:17:58
+944,TCK-MXF1PI2,Medium,Resolved,Access,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-08-16,2024-08-27,edward,2024-08-16 04:00:49
+945,TCK-OOQ42NB,Medium,Open,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-10-15,,diana,2024-10-15 16:24:29
+946,TCK-FA37DL9,Low,In Progress,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-05-29,,irene,2024-05-29 20:38:49
+947,TCK-FC1XX6C,High,Resolved,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-10-03,2024-10-14,edward,2024-10-03 07:44:22
+948,TCK-WZXSKOY,Medium,Closed,Network,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-07-16,2024-07-30,bob,2024-07-16 06:45:31
+949,TCK-TK06AKT,Medium,Resolved,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-03-10,2024-03-15,henry,2024-03-10 07:18:57
+950,TCK-7ZQHT2X,Low,Resolved,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-04-21,2024-04-30,george,2024-04-21 02:08:50
+951,TCK-Z52OHKB,Medium,Open,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-01-04,,henry,2024-01-04 06:39:10
+952,TCK-M00E9KD,High,Open,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-12-15,,charlie,2024-12-15 06:59:10
+953,TCK-TS1FB2V,Medium,Open,Hardware,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-11-26,,diana,2024-11-26 09:26:33
+954,TCK-I109DCN,Low,Open,Software,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-11-13,,edward,2024-11-13 14:53:01
+955,TCK-WMBXEK0,Critical,In Progress,Access,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-12-15,,fatima,2024-12-15 16:02:47
+956,TCK-Q929U6W,Low,In Progress,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-04-04,,alice,2024-04-04 22:49:20
+957,TCK-TVMK2ZY,High,In Progress,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-31,,diana,2024-05-31 22:44:04
+958,TCK-ZSILU3N,Medium,Open,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-11-06,,edward,2024-11-06 03:58:32
+959,TCK-DZ3CC5R,Medium,Resolved,Security,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-16,2024-05-24,george,2024-05-16 23:10:18
+960,TCK-QNSVSOJ,Medium,Resolved,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-09-03,2024-09-08,edward,2024-09-03 06:02:54
+961,TCK-RPP7R93,Medium,In Progress,Network,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-08-30,,alice,2024-08-30 02:54:20
+962,TCK-FEZEZ5E,Low,Closed,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-01-31,2024-02-14,george,2024-01-31 10:40:20
+963,TCK-HR07N8V,Medium,Closed,Network,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-02-09,2024-02-10,henry,2024-02-09 03:07:13
+964,TCK-OEUBFN9,Medium,Open,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-08-16,,george,2024-08-16 13:45:09
+965,TCK-KR2FVB6,Low,Resolved,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-02-05,2024-02-07,diana,2024-02-05 04:32:22
+966,TCK-6H3REM5,Low,Resolved,Security,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-08-10,2024-08-21,henry,2024-08-10 10:04:35
+967,TCK-PUU62RZ,Critical,Resolved,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-01-06,2024-01-13,edward,2024-01-06 02:20:23
+968,TCK-V1SQQQ5,Medium,In Progress,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-11-17,,irene,2024-11-17 12:27:26
+969,TCK-L2XOIOT,Low,Resolved,Hardware,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-08-07,2024-08-21,edward,2024-08-07 01:04:48
+970,TCK-860X5ZU,High,In Progress,Hardware,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-03-15,,alice,2024-03-15 21:19:21
+971,TCK-2ZUEUGW,Medium,Resolved,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-01-04,2024-01-09,irene,2024-01-04 08:32:53
+972,TCK-UBUGR6E,Low,Resolved,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-11-30,2024-12-01,edward,2024-11-30 17:23:58
+973,TCK-7GA2IZ5,Critical,Resolved,Hardware,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-05-13,2024-05-14,fatima,2024-05-13 17:39:55
+974,TCK-P3VOB5A,Medium,Resolved,Access,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-04-27,2024-05-03,diana,2024-04-27 03:40:13
+975,TCK-PO4LJED,Medium,Resolved,Hardware,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-04-03,2024-04-16,fatima,2024-04-03 00:20:46
+976,TCK-GFJDLOG,Medium,Open,Access,Network outage on floor 3,Auto-generated support ticket for dashboard analytics.,2024-03-02,,henry,2024-03-02 02:13:22
+977,TCK-WLACOLO,Critical,Open,Software,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-07-12,,charlie,2024-07-12 09:41:15
+978,TCK-LN3EH1V,Critical,Resolved,Hardware,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-11-30,2024-12-03,edward,2024-11-30 00:15:47
+979,TCK-R1NECQO,Medium,In Progress,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-07-21,,bob,2024-07-21 21:12:22
+980,TCK-ROI5J8Y,Low,Open,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-01-26,,bob,2024-01-26 01:31:26
+981,TCK-IT2KODW,Low,Open,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-06-21,,george,2024-06-21 03:31:33
+982,TCK-H8N92TP,Medium,Open,Software,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-10-26,,fatima,2024-10-26 07:41:05
+983,TCK-6QAQ3K8,Critical,Closed,Hardware,Application timeout error,Auto-generated support ticket for dashboard analytics.,2024-05-12,2024-05-23,diana,2024-05-12 19:01:03
+984,TCK-A7RV4NM,Medium,Resolved,Network,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-11-21,2024-11-26,edward,2024-11-21 00:15:51
+985,TCK-WVSB0UK,High,Closed,Network,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-04-27,2024-04-30,alice,2024-04-27 13:40:39
+986,TCK-OEFUKPV,Low,Resolved,Access,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-11-19,2024-12-01,george,2024-11-19 21:57:14
+987,TCK-8LYMJ1Q,Low,In Progress,Access,Laptop overheating,Auto-generated support ticket for dashboard analytics.,2024-10-01,,henry,2024-10-01 18:56:07
+988,TCK-I9MQVAY,Medium,In Progress,Network,Email not syncing,Auto-generated support ticket for dashboard analytics.,2024-07-30,,irene,2024-07-30 09:40:43
+989,TCK-XAR6YO6,Low,Resolved,Access,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-08-12,2024-08-20,henry,2024-08-12 17:41:31
+990,TCK-Z1T2XCB,Critical,Open,Software,VPN access failure,Auto-generated support ticket for dashboard analytics.,2024-01-20,,edward,2024-01-20 17:13:47
+991,TCK-3YYM33M,Medium,Closed,Security,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-04-22,2024-05-01,charlie,2024-04-22 12:16:15
+992,TCK-G1ZAQ7Q,High,Resolved,Security,System crash on login,Auto-generated support ticket for dashboard analytics.,2024-05-19,2024-05-31,irene,2024-05-19 22:00:16
+993,TCK-HAK7MDW,Low,In Progress,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-02-16,,fatima,2024-02-16 15:38:09
+994,TCK-KZIRNK6,High,Closed,Security,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-01-01,2024-01-08,edward,2024-01-01 12:15:12
+995,TCK-ZHH3O5U,Medium,Resolved,Hardware,Software installation request,Auto-generated support ticket for dashboard analytics.,2024-03-30,2024-04-08,charlie,2024-03-30 13:29:59
+996,TCK-RTXUYUC,Low,Resolved,Software,Slow system performance,Auto-generated support ticket for dashboard analytics.,2024-05-21,2024-05-22,fatima,2024-05-21 12:29:27
+997,TCK-ECJUIS2,Critical,Open,Access,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-11-15,,charlie,2024-11-15 11:28:37
+998,TCK-GY9YTJU,Medium,In Progress,Software,Printer not responding,Auto-generated support ticket for dashboard analytics.,2024-02-07,,fatima,2024-02-07 08:43:24
+999,TCK-Q7X7B7P,Low,Resolved,Network,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-10-19,2024-10-21,diana,2024-10-19 13:09:04
+1000,TCK-9JYQN15,Medium,Open,Access,Password reset required,Auto-generated support ticket for dashboard analytics.,2024-05-18,,bob,2024-05-18 14:30:28
