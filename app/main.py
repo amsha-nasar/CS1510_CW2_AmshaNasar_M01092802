@@ -95,21 +95,28 @@ def run_comprehensive_tests():
     # Test 2: CRUD Operations
     print("\n[TEST 2] CRUD Operations")
     
-    # Create
+    
     test_id = insert_incident(
-        conn,
-        "2024-11-05",
-        "Test Incident",
-        "Low",
-        "Open",
-        "This is a test incident",
-        "test_user"
-    )
-    print(f"  Create: ✅ Incident #{test_id} created")
+    conn,
+    "Test Incident",       # incident_type
+    "Low",                 # severity
+    "Open",                # status
+    "2024-11-05",          # date
+    "This is a test incident",  # description
+    "test_user"            # reported_by
+   )
+
+    print(f"✅ Incident #{test_id} created")
+
+# 5️⃣ Optional: Verify the row was inserted
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM cyber WHERE id = ?", (test_id,))
+    row = cursor.fetchone()
+    print("Inserted row:", row)
     
     # Read
     df = pd.read_sql_query(
-        "SELECT * FROM cyber_incidents WHERE id = ?",
+        "SELECT * FROM cyber WHERE id = ?",
         conn,
         params=(test_id,)
     )
@@ -140,6 +147,8 @@ def run_comprehensive_tests():
 
 # Run tests
 run_comprehensive_tests()
+
+
 
 
 

@@ -13,19 +13,16 @@ def hash_password(plain_text_password):
     bytes=plain_text_password.encode("utf-8")
     salt=bcrypt.gensalt()
     hashed_password=bcrypt.hashpw(bytes,salt)
-    hashed_str = hashed_password.decode("utf-8")
-
-    return hashed_str
+    return hashed_password
 
 
 def verify_password(plain_text_password,hashed_password):
 
     bytes_password=plain_text_password.encode("utf-8")
-    bytes_hashed=hashed_password.encode("utf-8")
-    verify=bcrypt.checkpw(bytes_password,bytes_hashed)
+    verify=bcrypt.checkpw(bytes_password,hashed_password)
     return verify 
 
-def register_user(username, password):
+def register_user(username, password,role):
     conn = connect_database()
     cursor = conn.cursor()
     
@@ -34,31 +31,38 @@ def register_user(username, password):
     if cursor.fetchone():
         conn.close()
         return False, f"Username '{username}' already exists."
-
+    u=validate_username(username)
+    p=validate_password(password)
+    if p and u :
+        print("valid password and username")
+    else:
+        return False,f"Invalid username or password"
+    
     hashed=hash_password(password)   
-    insert=insert_user(username,password)  
+    insert=insert_user(username,hashed,role)  
+    print(insert)
     return True, f"User '{username}' registered successfully!"
 
 
 
-def login_user(username, password): 
+def login_user(username, password):
     conn = connect_database()
     cursor = conn.cursor()
-    
-    # Find user
+
     cursor.execute("SELECT * FROM users WHERE username = ?", (username,))
     user = cursor.fetchone()
     conn.close()
 
     if not user:
         return False, "Username not found."
-    
-    hashed=user[2]
-    verify=verify_password(password,hashed)
-    if verify:
-        print("logged in sucessfully!")
+
+    stored_hash = user[2]   # must be bytes
+
+    if verify_password(password, stored_hash):
+        return True, "Logged in successfully!"
     else:
-        print("Invalid password, try again")
+        return False, "Invalid password."
+
 
 
 
@@ -103,18 +107,10 @@ def validate_password(password):
 
 
 def migrate_users_from_file(conn, filepath=DATA_DIR / "users.txt"):
-    """
-    Migrate users from users.txt to the database.
     
-    This is a COMPLETE IMPLEMENTATION as an example.
-    
-    Args:
-        conn: Database connection
-        filepath: Path to users.txt file
-    """
     if not filepath.exists():
-        print(f"⚠️  File not found: {filepath}")
-        print("   No users to migrate.")
+        print(f" File not found: {filepath}")
+        print("No users to migrate.")
         return
     
     cursor = conn.cursor()
@@ -144,4 +140,4 @@ def migrate_users_from_file(conn, filepath=DATA_DIR / "users.txt"):
                     print(f"Error migrating user {username}: {e}")
     
     conn.commit()
-    print(f"✅ Migrated {migrated_count} users from {filepath.name}")
+    print(f"Migrated {migrated_count} users from {filepath.name}")

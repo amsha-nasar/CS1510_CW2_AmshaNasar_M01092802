@@ -7,14 +7,29 @@ import pandas as pd
 
 
 
-def insert_incident(conn, date, incident_type, severity, status, description, reported_by=None):
-    cursor=conn.cursor()
-    cursor.execute(
-        "INSERT INTO cyber (date,incident_type, severity, status, description, reported_by) VALUES(?,?,?,?,?,?)",(date, incident_type, severity, status, description, reported_by)
-    )
-    conn.commit()
+
+def insert_incident(conn, incident_type, severity, status, date, description, reported_by, created_at=None):
+   cursor = conn.cursor()
     
-    return (cursor.lastrowid())
+   if created_at is None:
+        cursor.execute(
+            """INSERT INTO cyber 
+            (incident_type, severity, status, date, description, reported_by) 
+            VALUES (?, ?, ?, ?, ?, ?)""",
+            (incident_type, severity, status, date, description, reported_by)
+        )
+   else:
+        cursor.execute(
+            """INSERT INTO cyber 
+            (incident_type, severity, status, date, description, reported_by, created_at) 
+            VALUES (?, ?, ?, ?, ?, ?, ?)""",
+            (incident_type, severity, status, date, description, reported_by, created_at)
+        )
+    
+   conn.commit()
+   return cursor.lastrowid
+
+
 
 
 def get_all_incidents(conn):

@@ -1,4 +1,5 @@
 from app.data.db import connect_database
+import sqlite3
 
 def get_user_by_username(username):
     conn=connect_database()
@@ -16,7 +17,7 @@ def insert_user(username,password_hash,role="user"):
     conn=connect_database()
     cursor=conn.cursor()
     cursor.execute(
-        "INSERT INTO users(username,password_hash,role) VALUES (?,?,?)",(username,password_hash,role)    
+        "INSERT INTO users(username,password_hash,role) VALUES (?,?,?)",(username,sqlite3.Binary(password_hash),role)    
     )
     conn.commit()
     conn.close()
