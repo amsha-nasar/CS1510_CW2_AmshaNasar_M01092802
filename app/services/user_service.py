@@ -31,12 +31,17 @@ def register_user(username, password,role):
     if cursor.fetchone():
         conn.close()
         return False, f"Username '{username}' already exists."
-    u=validate_username(username)
-    p=validate_password(password)
-    if p and u :
-        print("valid password and username")
-    else:
-        return False,f"Invalid username or password"
+    
+    u_valid, u_msg = validate_username(username)
+    if not u_valid:
+        return False, u_msg
+
+    # Validate password
+    p_valid, p_msg = validate_password(password)
+    if not p_valid:
+        return False, p_msg
+    
+
     
     hashed=hash_password(password)   
     insert=insert_user(username,hashed,role)  
@@ -67,18 +72,13 @@ def login_user(username, password):
 
 
 def validate_username(username):
-    
-    if len(username)<5:
-        error_msg=("invalid username, too short")
-        return False,error_msg
-        
+    if len(username) < 5:
+        return False, "Username must be at least 5 characters."
 
     if username[0].isupper():
-         error_msg=("invalid username,First letter must be lowercase.")
-         return False,error_msg
-         
+        return False, "First letter of username must be lowercase."
 
-    return True,"valid username"
+    return True, "Valid username."
 
 def validate_password(password):
 
@@ -94,16 +94,13 @@ def validate_password(password):
          lower_flag = True
       if char.isdigit():
            isdigit_flag = True
-       
-    
 
   if upper_flag and lower_flag and isdigit_flag  and is_long_8:
-       error='The password is valid' #if all conditions/flags are true
+       print('The password is valid' )#if all conditions/flags are true
        
-       return True,error
+       return True, "Valid password."
   else:
-     error='The password is really invalid'
-     return False,error
+        return False, "Password must contain: 8+ characters, uppercase, lowercase, and a digit."
 
 
 def migrate_users_from_file(conn, filepath=DATA_DIR / "users.txt"):

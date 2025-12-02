@@ -31,17 +31,21 @@ tab_login, tab_register = st.tabs(["Login", "Register"])
 with tab_login:
     st.subheader("Login")
 
-    login_username = st.text_input("Username", key="login_username")
-    login_password = st.text_input("Password", type="password", key="login_password")
 
-    if st.button("Log in", type="primary"):
-        # Simple credential check (for teaching only – not secure!)
-        users = st.session_state.users
-        if login_username in users and users[login_username] == login_password:
+
+    username = st.text_input("Username")
+    password = st.text_input("Password", type="password")
+
+    if st.button("Login"):
+        ok, result = login_user(username, password)
+        if ok:
             st.session_state.logged_in = True
-            st.session_state.username = login_username
-            st.success(f"Welcome back, {login_username}! ")
+            st.session_state.user = result
+            st.success(f"Welcome {result['username']}!")
 
+            st.switch_page("pages/dashboard.py")
+        else:
+            st.error(result)
             # Redirect to dashboard page
             st.switch_page("pages/1_Dashboard.py")
         else:

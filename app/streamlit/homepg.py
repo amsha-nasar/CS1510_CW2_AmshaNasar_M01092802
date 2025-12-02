@@ -1,3 +1,10 @@
+import sys
+from pathlib import Path
+
+# Add project root to Python path
+project_root = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(project_root))
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -50,7 +57,7 @@ with tab_login:
         if ok:
             st.session_state.logged_in = True
             st.session_state.user = result
-            st.success(f"Welcome {result['username']}!")
+            st.success(f"Welcome {username}!")
 
             st.switch_page("pages/dashboard.py")
         else:
