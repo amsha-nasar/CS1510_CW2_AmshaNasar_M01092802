@@ -40,7 +40,7 @@ if st.session_state.logged_in:
     st.success(f"Already logged in as **{st.session_state.username}**.")
     if st.button("Go to dashboard"):
         # Use the official navigation API to switch pages
-        st.switch_page("pages/1_Dashboard.py")  # path is relative to Home.py :contentReference[oaicite:1]{index=1}
+        st.switch_page("pages/1_cyber.py")  # path is relative to Home.py :contentReference[oaicite:1]{index=1}
     st.stop()  # Don’t show login/register again
 
 tab_login, tab_register = st.tabs(["Login", "Register"])
@@ -59,7 +59,7 @@ with tab_login:
             st.session_state.user = result
             st.success(f"Welcome {username}!")
 
-            st.switch_page("pages/dashboard.py")
+            st.switch_page("pages/cyber.py")
         else:
             st.error(result)
             # Redirect to dashboard page
