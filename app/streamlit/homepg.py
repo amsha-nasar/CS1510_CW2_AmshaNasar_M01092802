@@ -58,8 +58,9 @@ with tab_login:
             st.session_state.logged_in = True
             st.session_state.user = result
             st.success(f"Welcome {username}!")
-
-            st.switch_page("pages/cyber.py")
+            if st.button("Go to cybersecurity dashboard"):
+               st.switch_page("pages/cyber.py")
+           
         else:
             st.error(result)
             # Redirect to dashboard page

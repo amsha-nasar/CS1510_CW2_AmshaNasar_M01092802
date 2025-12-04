@@ -183,7 +183,8 @@ with tab2:
 
           
 
-
+with tab3:
+    st.switch_page("pages/Cyber_Chatbot/py")
 
 
 
