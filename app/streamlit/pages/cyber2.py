@@ -1,85 +1,62 @@
 
-'''
-# Convert date column to datetime for graphs
-    df['date'] = pd.to_datetime(df['date'], errors='coerce')
+import sys
+from pathlib import Path
 
-    col1, col2 = st.columns(2)
+project_root = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(project_root))
 
-    # -------------------------------------------------
-    # 3D SCATTER — severity, date, status
-    # -------------------------------------------------
-    with col1:
-        st.subheader("3D Incident Visualization")
+import streamlit as st
+import plotly.graph_objects as go
+import plotly.express as px
+import pandas as pd
+import sqlite3
+from app.data.db import connect_database
+from app.data.incidents import insert_incident, get_all_incidents,update_incident_status,delete_incident,get_incidents_by_type_count,get_high_severity_by_status
 
-        # Plotly 3D scatter
-        # px.scatter_3d() → 3D visualization with 3 axis choices
-        fig = px.scatter_3d(
-            df,
-            x='severity',
-            y='incident_type',
-            z='date',
-            color='status',
-            title="3D Incident Overview",
-        )
-        st.plotly_chart(fig, use_container_width=True)
+conn = connect_database()
+df = get_all_incidents(conn)
 
-    # -------------------------------------------------
-    # SUNBURST CHART — Incident Type → Severity → Status
-    # -------------------------------------------------
-    with col2:
-        st.subheader("Threat Breakdown")
+st.set_page_config(page_title="Cybersecurity Record Alteration", page_icon="🛡️", layout="wide")
+st.title("Altering Records")
 
-        # Sunburst syntax:
-        # path = hierarchy order
-        fig = px.sunburst(
-            df,
-            path=['incident_type', 'severity', 'status'],
-            title="Incident Category Breakdown"
-        )
-        st.plotly_chart(fig, use_container_width=True)
+st.subheader("🟢 Insert Incidents")
+if st.button("Add new incident"):
 
-    # -------------------------------------------------
-    # TIMELINE (Animated Scatter)
-    # -------------------------------------------------
-    st.subheader("📅 Incident Timeline")
+        incident_type=st.text_input("enter incident type",key="category")
+        status=st.selectbox("enter status,",["Open","Investigating","Resolved","Closed"],key="insert_status")
+        severity=st.selectbox("enter severity type,",["Low","Medium","High","Critical"],key="severity")
+        description=st.text_input("enter incident description",key="des")
+        reported_by=st.text_input("enter incident description",key="report")
+        date=st.text_input("enter incident description",key="date")
+        created_at=st.text_input("enter incident description",key="time")
 
-    # px.scatter() with animation_frame is auto-timeline animation
-    fig = px.scatter(
-        df,
-        x='date',
-        y='severity',
-        color='incident_type',
-        title="Incident Evolution Over Time",
-    )
-    st.plotly_chart(fig, use_container_width=True)
+if st.button("Insert"):
+          
+          new_id=insert_incident(conn,incident_type, severity, status, date, description, reported_by, created_at)
+          st.success(f"{new_id} is id of record inserted successfully.")
+ 
+st.subheader("🟢 Update Incidents")
+if st.button("Update incident"):
+        
+         update_id=st.text_input("Enter incident ID to update", key="update_id")
+         new_status=st.selectbox("Enter new status", ["Open", "Investigating", "Resolved", "Closed"], key="new_status")
 
-    # -------------------------------------------------
-    # HEATMAP: Incident Count by Type × Severity
-    # -------------------------------------------------
-    st.subheader("🔥 Heatmap of Incidents")
+if st.button("Update"):
+          records=update_incident_status(conn,update_id,new_status)
+          if records==0:
+              st.warning(f"No records were updated.")
+          else:
+              st.success(f"{records} records updated successfully.")
+          
 
-    pivot = df.pivot_table(
-        index='incident_type',
-        columns='severity',
-        values='id',
-        aggfunc='count',
-        fill_value=0
-    )
 
-    heat = go.Figure(
-        data=go.Heatmap(
-            z=pivot.values,
-            x=pivot.columns,
-            y=pivot.index,
-            colorscale="Reds",
-            text=pivot.values,
-            texttemplate="%{text}"
-        )
-    )
+st.subheader("🟢 Delete Incidents")
+if st.button("Delete incident"):
+         delete_id=st.text_input("Enter incident ID to delete", key="delete_id")
 
-    heat.update_layout(
-        title="Incident Density Heatmap",
-        height=400,
-    )
-    st.plotly_chart(heat, use_container_width=True)
-'''
+if st.button("Delete"):
+    records=delete_incident(conn,delete_id)
+    if records==0:
+        st.warning(f"No records were deleted.")
+    else:
+        st.success(f"{records} records deleted successfully.")
