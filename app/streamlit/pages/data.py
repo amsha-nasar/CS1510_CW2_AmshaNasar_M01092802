@@ -1,8 +1,6 @@
 import sys
 from pathlib import Path
 
-
-# Add project root to Python path
 project_root = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(project_root))
 
@@ -18,9 +16,9 @@ from app.data.incidents import insert_incident, get_all_incidents,update_inciden
     st.warning("You must log in to access this page.")
     st.stop()  # stops the rest of the page from loading
 '''
-st.set_page_config(page_title="Cybersecurity Dashboard", page_icon="🛡️", layout="wide")
+st.set_page_config(page_title="Data Science Analysis", page_icon="🛡️", layout="wide")
 
-st.title("🛡️ Cybersecurity Threat Analysis")
+st.title("Data Science Analysis")
 
 
 

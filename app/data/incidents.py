@@ -2,7 +2,7 @@
 
 from app.data.db import connect_database
 
-from app.data.schema import create_users_table,create_cyber_incidents_table
+from app.data.schema import create_users_table,create_cyber_incidents_table,create_datasets_metadata_table
 import pandas as pd 
 
 
