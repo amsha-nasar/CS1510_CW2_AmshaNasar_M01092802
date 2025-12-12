@@ -2,6 +2,11 @@
 import streamlit as st
 from openai import OpenAI
 
+
+if 'logged_in' not in st.session_state or not st.session_state['logged_in']:
+    st.warning("You must log in to access this page.")
+    st.stop()
+
 # Initialize OpenAI client
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 

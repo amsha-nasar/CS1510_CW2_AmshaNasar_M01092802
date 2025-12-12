@@ -15,10 +15,10 @@ import sqlite3
 from app.data.db import connect_database
 from app.data.incidents import insert_incident, get_all_incidents,update_incident_status,delete_incident,get_incidents_by_type_count,get_high_severity_by_status
 
-'''if 'logged_in' not in st.session_state or not st.session_state['logged_in']:
+if 'logged_in' not in st.session_state or not st.session_state['logged_in']:
     st.warning("You must log in to access this page.")
     st.stop()  # stops the rest of the page from loading
-'''
+
 st.set_page_config(page_title="Cybersecurity Dashboard", page_icon="🛡️", layout="wide")
 
 st.title("🛡️ Cybersecurity Threat Analysis")
@@ -32,6 +32,7 @@ with tab1:
     conn = connect_database()
     # Load DataFrame from database
     df = get_all_incidents(conn)
+    
 
     df['created_at'] = pd.to_datetime(df['created_at'], format="%Y-%m-%d",errors='coerce')
 
@@ -94,16 +95,6 @@ with tab1:
     )
     st.plotly_chart(fig_status, use_container_width=True)
 
-
-# CHART 3: Incidents by Hour of Day
-
-    st.subheader("⏱️ Incidents by Hour of Day")
-    fig_hour = px.bar(
-    filtered_df,
-    x="hour",
-    title="Reported Incidents by Hour",
-    )
-    st.plotly_chart(fig_hour, use_container_width=True)
 
 
 # CHART 4: Incidents by Category

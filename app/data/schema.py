@@ -15,7 +15,7 @@ def create_users_table(conn):
         )
     """)
     conn.commit()
-    print("✅ Users table created successfully!")
+    print(" Users table created successfully!")
 
 def create_cyber_incidents_table(conn):
     """Create users table."""
@@ -36,7 +36,7 @@ def create_cyber_incidents_table(conn):
     print("Cyber Incidents data table created successfully!")
 
 def create_datasets_metadata_table(conn):
-    """Create users table."""
+    """Create data table."""
     cursor = conn.cursor()
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS metadata(
@@ -52,10 +52,10 @@ def create_datasets_metadata_table(conn):
         )
     """)
     conn.commit()
-    print("✅ datasets metadata table created successfully!")
+    print("datasets metadata table created successfully!")
 
 def create_it_tickets_table(conn):
-    """Create users table."""
+    """Create IT tickets table."""
     cursor = conn.cursor()
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS tickets(

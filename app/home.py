@@ -1,3 +1,10 @@
+import sys
+from pathlib import Path
+
+# Add project root to Python path
+project_root = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(project_root))
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -23,6 +30,7 @@ if "users" not in st.session_state:
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
 
+
 if "username" not in st.session_state:
     st.session_state.username = ""
 
@@ -33,7 +41,7 @@ if st.session_state.logged_in:
     st.success(f"Already logged in as **{st.session_state.username}**.")
     if st.button("Go to dashboard"):
         # Use the official navigation API to switch pages
-        st.switch_page("pages/1_Dashboard.py")  # path is relative to Home.py :contentReference[oaicite:1]{index=1}
+        st.switch_page("pages/1_cyber.py")  # path is relative to Home.py :contentReference[oaicite:1]{index=1}
     st.stop()  # Don’t show login/register again
 
 tab_login, tab_register = st.tabs(["Login", "Register"])
@@ -50,9 +58,10 @@ with tab_login:
         if ok:
             st.session_state.logged_in = True
             st.session_state.user = result
-            st.success(f"Welcome {result['username']}!")
-
-            st.switch_page("pages/dashboard.py")
+            st.success(f"Welcome {username}!")
+            if st.button("Go to cybersecurity dashboard"):
+               st.switch_page("pages/cyber.py")
+           
         else:
             st.error(result)
             # Redirect to dashboard page

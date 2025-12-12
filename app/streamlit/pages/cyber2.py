@@ -13,6 +13,10 @@ import sqlite3
 from app.data.db import connect_database
 from app.data.incidents import insert_incident, get_all_incidents,update_incident_status,delete_incident,get_incidents_by_type_count,get_high_severity_by_status
 
+
+if 'logged_in' not in st.session_state or not st.session_state['logged_in']:
+    st.warning("You must log in to access this page.")
+    st.stop()
 conn = connect_database()
 df = get_all_incidents(conn)
 
