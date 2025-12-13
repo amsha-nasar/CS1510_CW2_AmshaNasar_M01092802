@@ -6,7 +6,7 @@ from app.data.incidents import insert_incident, get_all_incidents,update_inciden
 from pathlib import Path
 import pandas as pd 
 
-DATA_DIR = Path("DATA")
+DATA_DIR = Path("")
 DB_PATH = DATA_DIR / "intelligence_platform.db"
 cyber_path=DATA_DIR / "cyber_incidents.csv"
 tickets_path=DATA_DIR / "it_tickets.csv"

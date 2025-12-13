@@ -14,7 +14,13 @@ add UML diagram
 ReadMe,technical report,code comments 
 OOP very important 
 class names should be nouns and singular(not plural)
-
+"""
+each table is one class
+what relationships can u establish
+make relation between users and cyber- created by and username are linked 
+username becomes foreign key in cyber table 
+establish relationship
+"""
 clone repository?? before starting oop?
 how to git commit with api key 
 with OOP you can get 90 or 100 with proper documenation
@@ -59,10 +65,11 @@ print(d)
 
 print(std2.get_passed())
    
+"Inheritance"
+class Animal:
+    def __init__(self,name,age):
+        self.__name=name
 
-
-
-#initialse variables
 
     
 

@@ -1,0 +1,6 @@
+Aaa34567
+amychee
+streamlit run oop/home.py
+find . -name "__pycache__" -type d -exec rm -r {} +
+streamlit cache clear
+

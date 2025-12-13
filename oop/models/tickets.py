@@ -1,4 +1,6 @@
 
+import pandas as pd
+
 
 class ITTicket:
     """Represents an IT support ticket."""
@@ -32,6 +34,7 @@ class ITTicket:
             f"[{self.priority}] – {self.status} "
             f"(assigned to: {self.assigned_to})"
         )
+
 
 
 class ITTicketRepository:

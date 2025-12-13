@@ -2,13 +2,12 @@ import sys
 from pathlib import Path
 
 # Add project root to Python path
-project_root = Path(__file__).parent.parent.parent
+project_root = Path(__file__).parent.parent  # pages/ -> project root
 sys.path.insert(0, str(project_root))
 
 import streamlit as st
-import pandas as pd
-import numpy as np
-from app.services.user_service import login_user,register_user
+from oop.services.database_manager import DatabaseManager
+from oop.services.auth_manager import AuthManager
 
 
 st.set_page_config(page_title="Dashboard", page_icon="📊", layout="wide")
@@ -23,9 +22,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-if "users" not in st.session_state:
-    # Very simple in-memory "database": {username: password}
-    st.session_state.users = {}
 
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
@@ -33,6 +29,10 @@ if "logged_in" not in st.session_state:
 
 if "username" not in st.session_state:
     st.session_state.username = ""
+
+DB_Path = Path(__file__).parent / "database" / "intelligence_platform.db"
+db = DatabaseManager(DB_Path)
+auth = AuthManager(db)
 
 st.title("🔐 Welcome")
 
@@ -49,20 +49,19 @@ tab_login, tab_register = st.tabs(["Login", "Register"])
 with tab_login:
     st.subheader("Login")
    
-    
 
     username = st.text_input("Username")
     password = st.text_input("Password", type="password")
 
 
     if st.button("Login"):
-        ok, result = login_user(username, password)
+        ok, result = auth.login_user(username, password)
         if ok:
             st.session_state.logged_in = True
             st.session_state.user = result
             st.success(f"Welcome {username}!")
             if st.button("Go to cybersecurity dashboard"):
-               st.switch_page("pages/cyber.py")
+              st.switch_page("pages/cyber.py")
            
         else:
             st.error(result)
@@ -77,7 +76,7 @@ with tab_register:
     role = st.selectbox("Select role", ["user", "admin"])
 
     if st.button("Register"):
-        ok, result =register_user(username, password, role)
+        ok, result = auth.register_user(username, password, role)
         if ok:
             st.success(result)
             st.info("You can now login")

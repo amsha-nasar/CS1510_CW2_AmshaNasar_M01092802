@@ -12,8 +12,9 @@ import plotly.graph_objects as go
 import plotly.express as px
 import pandas as pd
 import sqlite3
-from models.incidents import IncidentManager 
-from services.database_manager import DatabaseManager
+from oop.services.database_manager import DatabaseManager
+from oop.models.incidents import IncidentManager,SecurityIncident
+
 
 
 if 'logged_in' not in st.session_state or not st.session_state['logged_in']:
@@ -131,14 +132,61 @@ with tab1:
 
     
 with tab2:
-      if st.button("Go to Incidents Update Page"):
-         st.switch_page("pages/cyber2.py")
+       db = DatabaseManager("DATA/intelligence_platform.db")
+       conn=db.connect()
+       incident=IncidentManager()
 
-    
+
+st.subheader("🟢 Insert Incidents")
+if st.button("Add new incident"):
+
+        incident_type=st.text_input("enter incident type",key="category")
+        status=st.selectbox("enter status,",["Open","Investigating","Resolved","Closed"],key="insert_status")
+        severity=st.selectbox("enter severity type,",["Low","Medium","High","Critical"],key="severity")
+        description=st.text_input("enter incident description",key="des")
+        reported_by=st.text_input("Reported by",key="report")
+        date=st.text_input("Date of incident",key="date")
+        created_at=st.text_input("Record creation time (optional)",key="time")
+
+if st.button("Insert"):
+          
+          new_id=incident.insert_incident(incident_type, severity, status, date, description, reported_by, created_at)
+          st.success(f"{new_id} is id of record inserted successfully.")
+ 
+st.subheader("🟢 Update Incidents")
+if st.button("Update incident"):
+        
+         update_id=st.text_input("Enter incident ID to update", key="update_id")
+         new_status=st.selectbox("Enter new status", ["Open", "Investigating", "Resolved", "Closed"], key="new_status")
+
+if st.button("Update"):
+          records=incident.update_incident_status(update_id,new_status)
+          if records==0:
+              st.warning(f"No records were updated.")
+          else:
+              st.success(f"{records} records updated successfully.")
+          
+
+
+st.subheader("🟢 Delete Incidents")
+if st.button("Delete incident"):
+         delete_id=st.text_input("Enter incident ID to delete", key="delete_id")
+
+if st.button("Delete"):
+    records=incident.delete_incident(delete_id)
+    if records==0:
+        st.warning(f"No records were deleted.")
+    else:
+        st.success(f"{records} records deleted successfully.")
+
+
+
+
+
      
 with tab3:
     if st.button("Go to Cyber Chatbot"):
-      st.switch_page("pages/Cyber_Chatbot.py")
+      st.switch_page("pages/Chatbot.py")
 
 
 
